@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">    
+
+
+    <Definition xsi:type="MyObjectBuilder_FactionTypeDefinition">
+        <Id Type="MyObjectBuilder_FactionTypeDefinition" Subtype="Builder" />
+
+        <OffersList>
+            <ItemId Type="MyObjectBuilder_Datapad" Subtype="Datapad" />
+            <ItemId Type="MyObjectBuilder_Component" Subtype="ZoneChip" />
+
+            <ItemId Type="MyObjectBuilder_PhysicalGunObject" Subtype="Welder3Item" />
+            <ItemId Type="MyObjectBuilder_PhysicalGunObject" Subtype="Welder4Item" />
+
+            <ItemId Type="MyObjectBuilder_ConsumableItem" Subtype="Medkit" />
+            <ItemId Type="MyObjectBuilder_ConsumableItem" Subtype="Powerkit" />
+        </OffersList>
+
+        <OrdersList>
+            <ItemId Type="MyObjectBuilder_Component" Subtype="Construction" />
+            <ItemId Type="MyObjectBuilder_Component" Subtype="MetalGrid" />
+            <ItemId Type="MyObjectBuilder_Component" Subtype="InteriorPlate" />
+            <ItemId Type="MyObjectBuilder_Component" Subtype="SteelPlate" />
+            <ItemId Type="MyObjectBuilder_Component" Subtype="Girder" />
+            <ItemId Type="MyObjectBuilder_Component" Subtype="SmallTube" />
+            <ItemId Type="MyObjectBuilder_Component" Subtype="LargeTube" />
+            <ItemId Type="MyObjectBuilder_Component" Subtype="Motor" />
+            <ItemId Type="MyObjectBuilder_Component" Subtype="Display" />
+            <ItemId Type="MyObjectBuilder_Component" Subtype="BulletproofGlass" />
+            <ItemId Type="MyObjectBuilder_Component" Subtype="Superconductor" />
+            <ItemId Type="MyObjectBuilder_Component" Subtype="Computer" />
+            <ItemId Type="MyObjectBuilder_Component" Subtype="Reactor" />
+            <ItemId Type="MyObjectBuilder_Component" Subtype="Thrust" />
+            <ItemId Type="MyObjectBuilder_Component" Subtype="GravityGenerator" />            
+            <ItemId Type="MyObjectBuilder_Component" Subtype="RadioCommunication" />
+            <ItemId Type="MyObjectBuilder_Component" Subtype="Detector" />
+            <ItemId Type="MyObjectBuilder_Component" Subtype="Explosives" />
+            <ItemId Type="MyObjectBuilder_Component" Subtype="SolarCell" />
+            <ItemId Type="MyObjectBuilder_Component" Subtype="PowerCell" />
+            <ItemId Type="MyObjectBuilder_Component" Subtype="Canvas" />            
+        </OrdersList>        
+
+        <GridsForSale>
+            <PrefabName>ATV-Survivor</PrefabName>            
+            <PrefabName>Fighter2</PrefabName>
+            <PrefabName>MinerSmallShip</PrefabName>
+            <PrefabName>Cursor</PrefabName>
+            <PrefabName>Buddy Miner</PrefabName>
+            <PrefabName>Atmo Constructor</PrefabName>
+            <PrefabName>Scout Miner</PrefabName> 
+            <PrefabName>Solar Scout</PrefabName> 
+            <PrefabName>Aggressive Miner</PrefabName> 
+            <PrefabName>Gerbil Miner</PrefabName> 
+            <PrefabName>Ion Constructor</PrefabName> 
+            <PrefabName>Kite Miner</PrefabName> 
+            <PrefabName>Ion Light Scout</PrefabName>   
+            <PrefabName>Ion Tug Ship</PrefabName> 
+            <PrefabName>Turtle Miner</PrefabName> 
+            <PrefabName>U-92 Patrol Craft</PrefabName>   
+            <PrefabName>Lunar Scout mk.4</PrefabName>  
+            <PrefabName>LCC-3 Freighter</PrefabName>  
+            <PrefabName>Burstfire Bomber</PrefabName>  
+            <PrefabName>Hydro Scout Rover</PrefabName>  
+            <PrefabName>Lunar Scout mk.2</PrefabName>  
+            <PrefabName>T-Ion Fade</PrefabName>  
+            <PrefabName>Blue Ambassador Explorer</PrefabName> 
+            <PrefabName>Red Cruiser</PrefabName> 
+            <PrefabName>Rescue Rover 1</PrefabName> 
+            <PrefabName>TT-15 Freighter</PrefabName>
+            <PrefabName>RespawnShip</PrefabName>
+            <PrefabName>B-980 Hauler</PrefabName>   
+            <PrefabName>TT-420 Freighter</PrefabName>   
+            <PrefabName>J-Class Courier</PrefabName>   
+            <PrefabName>B-60 Bulk Freighter</PrefabName>
+            <PrefabName>H-01 Prospector</PrefabName>
+            <PrefabName>PV-4 Buggy</PrefabName>
+            <PrefabName>Discovery - peragus I MK I</PrefabName>
+            <PrefabName>peragus - aurus MK II</PrefabName>
+            <PrefabName>peragus - Raptus MK I</PrefabName>
+            <PrefabName>peragus - valhalla MK II</PrefabName>
+            <PrefabName>peragus fregate</PrefabName>
+            <PrefabName>peragus Raptus MK II </PrefabName>
+            <PrefabName>Peragus - Concordia MK I (hangars)</PrefabName>
+            <PrefabName>Peragus - Concordia MK II</PrefabName>
+            <PrefabName>Peragus - Dremus - MK I</PrefabName>
+            <PrefabName>Peragus - Dremus - MK III (Jumper)</PrefabName>
+            <PrefabName>Peragus - peragus II MK I</PrefabName>
+            <PrefabName>Peragus - valhalla MK I</PrefabName>
+            <PrefabName>Peragus - Chasseur Royale</PrefabName>
+            <PrefabName>Peragus - Dremus - MK II</PrefabName>
+            <PrefabName>Peragus - TRUSTARD MK I</PrefabName>
+            <PrefabName>Peragus - Trustard MK II</PrefabName>
+            <PrefabName>peragus II MK II</PrefabName>
+            <PrefabName>Peragus - Cargo MK I</PrefabName>
+            <PrefabName>Peragus - Pulsar</PrefabName>
+            <PrefabName>Peragus - Recon</PrefabName>
+            <PrefabName>Radiale MK II</PrefabName>
+            <PrefabName>Citizen - Biker Bug - bleu</PrefabName>
+            <PrefabName>Citizen - Biker Bug - orange</PrefabName>
+            <PrefabName>Citizen - Gaulbio Swift Bird - noir</PrefabName>
+            <PrefabName>Citizen - Gaulbio Swift Bird - rouge</PrefabName>
+            <PrefabName>Citizen - Mad Seeker</PrefabName>
+            <PrefabName>Citizen - Speeder - orange</PrefabName>
+            <PrefabName>Citizen - Speeder - rouge</PrefabName>
+            <PrefabName>Citizen - Wild Hunter</PrefabName>
+            <PrefabName>Citizen - Recon - planet</PrefabName>
+            <PrefabName>Peragus - Dremus - MK II - planet</PrefabName>
+            <PrefabName>Peragus -JD - Quantum aurora</PrefabName>
+            <PrefabName>Citizen - Gladuis</PrefabName>
+            <PrefabName>Citizen - Radiale</PrefabName>
+            <PrefabName>Citizen - Stations Noctula (mobilefixe)</PrefabName>
+            <PrefabName>Pirate - Artistic - Vindicateur</PrefabName>
+            <PrefabName>Pirate - roisinge - Anubis</PrefabName>
+            <PrefabName>Pirate - roisinge - Hermes</PrefabName>
+            <PrefabName>Pirate - roisinge - Hermes - planet</PrefabName>
+            <PrefabName>Citizen - Gaulbio - Swift Bird - Police</PrefabName>
+            <PrefabName>Citizen - Gaulbio MC-300 - police</PrefabName>
+            <PrefabName>Citizen - Gaulbio MC-300 rouge</PrefabName>
+            <PrefabName>Citizen - Gaulbio MC-300 Vert</PrefabName>
+            <PrefabName>Citizen - Gaulbio C-10</PrefabName>
+            <PrefabName>Citizen - Gaulbio T-7 Light transport</PrefabName>
+            <PrefabName>Citizen - Gaulbio T-15 Light freighter</PrefabName>
+            <PrefabName>TiTAN - Peragus Air (atmo)</PrefabName>
+            <PrefabName>TiTAN - TRAN-SHIP BLUNDER</PrefabName>
+            <PrefabName>Raptus - MK IV</PrefabName>
+            <PrefabName>TiTAN - Rovers Des Montagnes</PrefabName>
+            <PrefabName>TiTAN - rovers MK I.I</PrefabName>
+            <PrefabName>Pulsar MK I V2</PrefabName>
+            <PrefabName>Radiale MK III</PrefabName>
+            <PrefabName>Blue Ship MK II</PrefabName>
+            <PrefabName>Dramatique2</PrefabName>
+            <PrefabName>Chasseur D-17</PrefabName>
+            <PrefabName>PA-E22 Diplomate</PrefabName>
+            <PrefabName>Explorateur</PrefabName>
+            <PrefabName>Raptus - MK IVbis</PrefabName>
+            <PrefabName>TiTAN - TRAN-SHIP BLUNDERbis</PrefabName>
+            <PrefabName>Raptus MK III (ions)</PrefabName>
+            <PrefabName>Raptus MK III (atmo)</PrefabName>
+            <PrefabName>Aurus MK III</PrefabName>
+            <PrefabName>peragus I MK II Lune - Espace</PrefabName>
+            <PrefabName>(APM-I) MK I (finale1)</PrefabName>
+            <PrefabName>MAX - Elysium</PrefabName>
+            <PrefabName>MAX - helicarrier MK I</PrefabName>
+            <PrefabName>MAX - Leopard DCA MK I</PrefabName>
+            <PrefabName>MAX - Leopard MK I</PrefabName>
+            <PrefabName>MAX - Racer MK I</PrefabName>
+            <PrefabName>MAX - Ranger MK I</PrefabName>
+            <PrefabName>MAX - Raptus V (ATMO)</PrefabName>
+            <PrefabName>MAX - Ratpus V (IONS)</PrefabName>
+            <PrefabName>MAX - Wyvern</PrefabName>
+            <PrefabName>MAX - Wyvern2</PrefabName>
+            <PrefabName>MAX - sovngarde MK I</PrefabName>
+            <PrefabName>MAX - Vagabond</PrefabName>
+            <PrefabName>MAX - prototype</PrefabName>
+            <PrefabName>MAX - Recon MK II style 2</PrefabName>
+            <PrefabName>MAX - Recon MK II style 3</PrefabName>
+            <PrefabName>MAX - Recon MK II</PrefabName>
+            <PrefabName>Gaulbio ASC-1000 Deraison</PrefabName>
+            <PrefabName>Gaulbio 'Ember Duckling' S20</PrefabName>
+            <PrefabName>Koleop'Terre Kart R77 'Printemps'</PrefabName>
+            <PrefabName>Koleop'Terre PR-DB96  'Salamandre'</PrefabName>
+            <PrefabName>P0-Stapo RVR-3 'Taurus'</PrefabName>
+            <PrefabName>P0-Stapo RVR-5 'Big Bull'</PrefabName>
+            <PrefabName>NX-proto orion classe exod</PrefabName>
+            <PrefabName>NX-EXODUS class exodus</PrefabName>
+            <PrefabName>MAX - super rover2</PrefabName>
+            <PrefabName>Rover2</PrefabName>
+            <PrefabName>MAX - Radiale MK III</PrefabName>
+            <PrefabName>TiTAN - Quatro MK I</PrefabName>
+            <PrefabName>MAX - Emporia</PrefabName>
+            <PrefabName>Galactic Athens</PrefabName>
+
+            <PrefabName>Cargo MK I</PrefabName>
+            <PrefabName>Foreuse MKI</PrefabName>
+            <PrefabName>NAVETTE1</PrefabName>
+            <PrefabName>NAVETTE2</PrefabName>
+            <PrefabName>Pulsar 2</PrefabName>
+            <PrefabName>S-RAPTUS</PrefabName>
+            <PrefabName>the black howler</PrefabName>
+            <PrefabName>the little black howler</PrefabName>
+            <PrefabName>Aurus MK III - hydro</PrefabName>
+
+        </GridsForSale>
+
+        <CanSellOxygen>true</CanSellOxygen>
+        <CanSellHydrogen>true</CanSellHydrogen>  
+
+        <MaxContractCount>45</MaxContractCount>
+        
+    </Definition>
+    
+</Definitions>
+
