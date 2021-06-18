@@ -8,10 +8,6 @@
         <Icon>Textures\GUI\Prefabs\GM2-411_Combat_Destroyer.ec.dds</Icon>
         <TooltipImage>Textures\GUI\Prefabs\GM2-411_Combat_Destroyer.ec.png</TooltipImage>
         <EnvironmentType>Space</EnvironmentType>
-      <Id>
-        <TypeId>MyObjectBuilder_PrefabDefinition</TypeId>
-        <SubtypeId>GM2-411_Combat_Destroyer</SubtypeId>
-      </Id>
       <CubeGrids>
         <CubeGrid>
           <EntityId>72281371525131630</EntityId>

@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Prefabs>
+	<Prefab xsi:type="MyObjectBuilder_PrefabDefinition">
       <Id Type="MyObjectBuilder_PrefabDefinition" Subtype="Longsword_Mk._9S.ec" />
         <DisplayName>Longsword MKIX S</DisplayName>
         <Description>Equipped with Gatlings and Missiles this lightweight fighter ship can quickly get in and out of a battle field (Space Only)</Description>

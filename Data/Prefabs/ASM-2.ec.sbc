@@ -8,10 +8,6 @@
         <Icon>Textures\GUI\Prefabs\ASM-2.ec.dds</Icon>
         <TooltipImage>Textures\GUI\Prefabs\ASM-2.ec.png</TooltipImage>
         <EnvironmentType>Space</EnvironmentType>
-      <Id>
-        <TypeId>MyObjectBuilder_PrefabDefinition</TypeId>
-        <SubtypeId>ASM-2</SubtypeId>
-      </Id>
       <CubeGrids>
         <CubeGrid>
           <EntityId>72123570337009287</EntityId>

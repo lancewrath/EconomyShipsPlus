@@ -8,10 +8,6 @@
         <Icon>Textures\GUI\Prefabs\Raefftech_Base_Ship.ec.dds</Icon>
         <TooltipImage>Textures\GUI\Prefabs\Raefftech_Base_Ship.ec.png</TooltipImage>
         <EnvironmentType>Space</EnvironmentType>	
-      <Id>
-        <TypeId>MyObjectBuilder_PrefabDefinition</TypeId>
-        <SubtypeId>Raefftech_Base_Ship_(outdated)</SubtypeId>
-      </Id>
       <CubeGrids>
         <CubeGrid>
           <EntityId>192491629364648318</EntityId>

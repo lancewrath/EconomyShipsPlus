@@ -8,10 +8,6 @@
         <Icon>Textures\GUI\Prefabs\DSF3_Duchessa.ec.dds</Icon>
         <TooltipImage>Textures\GUI\Prefabs\DSF3_Duchessa.ec.png</TooltipImage>
         <EnvironmentType>Space</EnvironmentType>
-      <Id>
-        <TypeId>MyObjectBuilder_PrefabDefinition</TypeId>
-        <SubtypeId>DSF3_Duchessa</SubtypeId>
-      </Id>
       <CubeGrids>
         <CubeGrid>
           <EntityId>210214786353382257</EntityId>

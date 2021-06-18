@@ -8,10 +8,6 @@
         <Icon>Textures\GUI\Prefabs\LargeShipBlue.ec.dds</Icon>
         <TooltipImage>Textures\GUI\Prefabs\LargeShipBlue.ec.png</TooltipImage>
         <EnvironmentType>Space</EnvironmentType>
-      <Id>
-        <TypeId>MyObjectBuilder_PrefabDefinition</TypeId>
-        <SubtypeId>LargeShipBlue</SubtypeId>
-      </Id>
       <CubeGrids>
         <CubeGrid>
           <EntityId>168643941663120681</EntityId>

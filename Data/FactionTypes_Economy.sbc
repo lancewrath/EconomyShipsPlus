@@ -74,112 +74,57 @@
             <PrefabName>B-60 Bulk Freighter</PrefabName>
             <PrefabName>H-01 Prospector</PrefabName>
             <PrefabName>PV-4 Buggy</PrefabName>
-            <PrefabName>Discovery - peragus I MK I</PrefabName>
-            <PrefabName>peragus - aurus MK II</PrefabName>
-            <PrefabName>peragus - Raptus MK I</PrefabName>
-            <PrefabName>peragus - valhalla MK II</PrefabName>
-            <PrefabName>peragus fregate</PrefabName>
-            <PrefabName>peragus Raptus MK II </PrefabName>
-            <PrefabName>Peragus - Concordia MK I (hangars)</PrefabName>
-            <PrefabName>Peragus - Concordia MK II</PrefabName>
-            <PrefabName>Peragus - Dremus - MK I</PrefabName>
-            <PrefabName>Peragus - Dremus - MK III (Jumper)</PrefabName>
-            <PrefabName>Peragus - peragus II MK I</PrefabName>
-            <PrefabName>Peragus - valhalla MK I</PrefabName>
-            <PrefabName>Peragus - Chasseur Royale</PrefabName>
-            <PrefabName>Peragus - Dremus - MK II</PrefabName>
-            <PrefabName>Peragus - TRUSTARD MK I</PrefabName>
-            <PrefabName>Peragus - Trustard MK II</PrefabName>
-            <PrefabName>peragus II MK II</PrefabName>
-            <PrefabName>Peragus - Cargo MK I</PrefabName>
-            <PrefabName>Peragus - Pulsar</PrefabName>
-            <PrefabName>Peragus - Recon</PrefabName>
-            <PrefabName>Radiale MK II</PrefabName>
-            <PrefabName>Citizen - Biker Bug - bleu</PrefabName>
-            <PrefabName>Citizen - Biker Bug - orange</PrefabName>
-            <PrefabName>Citizen - Gaulbio Swift Bird - noir</PrefabName>
-            <PrefabName>Citizen - Gaulbio Swift Bird - rouge</PrefabName>
-            <PrefabName>Citizen - Mad Seeker</PrefabName>
-            <PrefabName>Citizen - Speeder - orange</PrefabName>
-            <PrefabName>Citizen - Speeder - rouge</PrefabName>
-            <PrefabName>Citizen - Wild Hunter</PrefabName>
-            <PrefabName>Citizen - Recon - planet</PrefabName>
-            <PrefabName>Peragus - Dremus - MK II - planet</PrefabName>
-            <PrefabName>Peragus -JD - Quantum aurora</PrefabName>
-            <PrefabName>Citizen - Gladuis</PrefabName>
-            <PrefabName>Citizen - Radiale</PrefabName>
-            <PrefabName>Citizen - Stations Noctula (mobilefixe)</PrefabName>
-            <PrefabName>Pirate - Artistic - Vindicateur</PrefabName>
-            <PrefabName>Pirate - roisinge - Anubis</PrefabName>
-            <PrefabName>Pirate - roisinge - Hermes</PrefabName>
-            <PrefabName>Pirate - roisinge - Hermes - planet</PrefabName>
-            <PrefabName>Citizen - Gaulbio - Swift Bird - Police</PrefabName>
-            <PrefabName>Citizen - Gaulbio MC-300 - police</PrefabName>
-            <PrefabName>Citizen - Gaulbio MC-300 rouge</PrefabName>
-            <PrefabName>Citizen - Gaulbio MC-300 Vert</PrefabName>
-            <PrefabName>Citizen - Gaulbio C-10</PrefabName>
-            <PrefabName>Citizen - Gaulbio T-7 Light transport</PrefabName>
-            <PrefabName>Citizen - Gaulbio T-15 Light freighter</PrefabName>
-            <PrefabName>TiTAN - Peragus Air (atmo)</PrefabName>
-            <PrefabName>TiTAN - TRAN-SHIP BLUNDER</PrefabName>
-            <PrefabName>Raptus - MK IV</PrefabName>
-            <PrefabName>TiTAN - Rovers Des Montagnes</PrefabName>
-            <PrefabName>TiTAN - rovers MK I.I</PrefabName>
-            <PrefabName>Pulsar MK I V2</PrefabName>
-            <PrefabName>Radiale MK III</PrefabName>
-            <PrefabName>Blue Ship MK II</PrefabName>
-            <PrefabName>Dramatique2</PrefabName>
-            <PrefabName>Chasseur D-17</PrefabName>
-            <PrefabName>PA-E22 Diplomate</PrefabName>
-            <PrefabName>Explorateur</PrefabName>
-            <PrefabName>Raptus - MK IVbis</PrefabName>
-            <PrefabName>TiTAN - TRAN-SHIP BLUNDERbis</PrefabName>
-            <PrefabName>Raptus MK III (ions)</PrefabName>
-            <PrefabName>Raptus MK III (atmo)</PrefabName>
-            <PrefabName>Aurus MK III</PrefabName>
-            <PrefabName>peragus I MK II Lune - Espace</PrefabName>
-            <PrefabName>(APM-I) MK I (finale1)</PrefabName>
-            <PrefabName>MAX - Elysium</PrefabName>
-            <PrefabName>MAX - helicarrier MK I</PrefabName>
-            <PrefabName>MAX - Leopard DCA MK I</PrefabName>
-            <PrefabName>MAX - Leopard MK I</PrefabName>
-            <PrefabName>MAX - Racer MK I</PrefabName>
-            <PrefabName>MAX - Ranger MK I</PrefabName>
-            <PrefabName>MAX - Raptus V (ATMO)</PrefabName>
-            <PrefabName>MAX - Ratpus V (IONS)</PrefabName>
-            <PrefabName>MAX - Wyvern</PrefabName>
-            <PrefabName>MAX - Wyvern2</PrefabName>
-            <PrefabName>MAX - sovngarde MK I</PrefabName>
-            <PrefabName>MAX - Vagabond</PrefabName>
-            <PrefabName>MAX - prototype</PrefabName>
-            <PrefabName>MAX - Recon MK II style 2</PrefabName>
-            <PrefabName>MAX - Recon MK II style 3</PrefabName>
-            <PrefabName>MAX - Recon MK II</PrefabName>
-            <PrefabName>Gaulbio ASC-1000 Deraison</PrefabName>
-            <PrefabName>Gaulbio 'Ember Duckling' S20</PrefabName>
-            <PrefabName>Koleop'Terre Kart R77 'Printemps'</PrefabName>
-            <PrefabName>Koleop'Terre PR-DB96  'Salamandre'</PrefabName>
-            <PrefabName>P0-Stapo RVR-3 'Taurus'</PrefabName>
-            <PrefabName>P0-Stapo RVR-5 'Big Bull'</PrefabName>
-            <PrefabName>NX-proto orion classe exod</PrefabName>
-            <PrefabName>NX-EXODUS class exodus</PrefabName>
-            <PrefabName>MAX - super rover2</PrefabName>
-            <PrefabName>Rover2</PrefabName>
-            <PrefabName>MAX - Radiale MK III</PrefabName>
-            <PrefabName>TiTAN - Quatro MK I</PrefabName>
-            <PrefabName>MAX - Emporia</PrefabName>
-            <PrefabName>Galactic Athens</PrefabName>
-
-            <PrefabName>Cargo MK I</PrefabName>
-            <PrefabName>Foreuse MKI</PrefabName>
-            <PrefabName>NAVETTE1</PrefabName>
-            <PrefabName>NAVETTE2</PrefabName>
-            <PrefabName>Pulsar 2</PrefabName>
-            <PrefabName>S-RAPTUS</PrefabName>
-            <PrefabName>the black howler</PrefabName>
-            <PrefabName>the little black howler</PrefabName>
-            <PrefabName>Aurus MK III - hydro</PrefabName>
-
+            <PrefabName>[O-S-L-E]_Enforcer.ec</PrefabName>
+            <PrefabName>Ablator.ec</PrefabName>
+            <PrefabName>Argentavis_mk.1.ec</PrefabName>
+            <PrefabName>Arke_Supply_Ship.ec</PrefabName>
+            <PrefabName>Armed_Transport_Charon.ec</PrefabName>
+            <PrefabName>ASM-2.ec</PrefabName>
+            <PrefabName>Banana.ec</PrefabName>
+            <PrefabName>Bumblebee.ec</PrefabName>
+            <PrefabName>Cargo_Buddy_mk.1.ec</PrefabName>
+            <PrefabName>Carrier_[Infinity].ec</PrefabName>
+            <PrefabName>Commercial_Salvager.ec</PrefabName>
+            <PrefabName>ConstructionShip.ec</PrefabName>
+            <PrefabName>Deterrent_mk.1.ec</PrefabName>
+            <PrefabName>Dread_Hulk_Nefarious_[A2-9604-p].ec</PrefabName>
+            <PrefabName>Drill_Ship_Moon_mk.1.ec</PrefabName>
+            <PrefabName>DSF3_Duchessa.ec</PrefabName>
+            <PrefabName>Enforcer_mk.2.ec</PrefabName>
+            <PrefabName>Eradicator_mk.1.ec</PrefabName>
+            <PrefabName>GLU_Jaguar_B-1,_light_Interceptor.ec</PrefabName>
+            <PrefabName>GLU_Mule_A-1,_light_Freighter.ec</PrefabName>
+            <PrefabName>GM2-411_Combat_Destroyer.ec</PrefabName>
+            <PrefabName>IMDC_Cerberus_Destroyer_Mk.3.ec</PrefabName>
+            <PrefabName>IMDC_Vulture_Fighter_Bomber.ec</PrefabName>
+            <PrefabName>Kestral-Class_Assault_Fighter.ec</PrefabName>
+            <PrefabName>LargeShipBlue.ec</PrefabName>
+            <PrefabName>Longsword_Mk._9S.ec</PrefabName>
+            <PrefabName>Military1.ec</PrefabName>
+            <PrefabName>Military2.ec</PrefabName>
+            <PrefabName>Military3.ec</PrefabName>
+            <PrefabName>MiningCargo1.ec</PrefabName>
+            <PrefabName>MiningCargo2.ec</PrefabName>
+            <PrefabName>MiningCargo3.ec</PrefabName>
+            <PrefabName>Pitbull_Bomber.ec</PrefabName>
+            <PrefabName>Raefftech_Base_Ship.ec</PrefabName>
+            <PrefabName>Raven_MkII.ec</PrefabName>
+            <PrefabName>Renaissance.ec</PrefabName>
+            <PrefabName>SF-45.ec</PrefabName>
+            <PrefabName>Small Shark 5418.ec</PrefabName>
+            <PrefabName>Small_Ship_5727.ec</PrefabName>
+            <PrefabName>Snub Fighter.ec</PrefabName>
+            <PrefabName>SpawnShipAssembler.ec</PrefabName>
+            <PrefabName>SpawnShipDrill.ec</PrefabName>
+            <PrefabName>Starfury_MkII.ec</PrefabName>
+            <PrefabName>STARTERSHIP.ec</PrefabName>
+            <PrefabName>Su1.C1d3.ec</PrefabName>
+            <PrefabName>The Pilgrims Curiosity.ec</PrefabName>
+            <PrefabName>TLF-28a_(LSF_CargoShip_Mod).ec</PrefabName>
+            <PrefabName>Ubumboo_(for_Exploration).ec</PrefabName>
+            <PrefabName>V2-Gunboat.ec</PrefabName>
+            <PrefabName>Volunder_exploration_ship.ec</PrefabName>
+            <PrefabName>Xedus_Ophiniam_class_Attack_Frigate.ec</PrefabName>
         </GridsForSale>
 
         <CanSellOxygen>true</CanSellOxygen>

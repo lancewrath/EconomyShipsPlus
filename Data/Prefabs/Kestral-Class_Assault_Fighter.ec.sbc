@@ -8,10 +8,6 @@
         <Icon>Textures\GUI\Prefabs\Kestral-Class_Assault_Fighter.ec.dds</Icon>
         <TooltipImage>Textures\GUI\Prefabs\Kestral-Class_Assault_Fighter.ec.png</TooltipImage>
         <EnvironmentType>Space</EnvironmentType>
-      <Id>
-        <TypeId>MyObjectBuilder_PrefabDefinition</TypeId>
-        <SubtypeId>Kestral-Class_Assault_Fighter</SubtypeId>
-      </Id>
       <CubeGrids>
         <CubeGrid>
           <EntityId>159990821379339014</EntityId>
