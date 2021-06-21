@@ -125,6 +125,21 @@
             <PrefabName>V2-Gunboat.ec</PrefabName>
             <PrefabName>Volunder_exploration_ship.ec</PrefabName>
             <PrefabName>Xedus_Ophiniam_class_Attack_Frigate.ec</PrefabName>
+			<PrefabName>Corvette.ec</PrefabName>
+			<PrefabName>Vigor.ec</PrefabName>
+			<PrefabName>H01-HeavyMiner.ec</PrefabName>
+			<PrefabName>War-Tinamou.ec</PrefabName>
+			<PrefabName>Sky-Heart.ec</PrefabName>
+			<PrefabName>Drifting Pursuant Model M.ec</PrefabName>
+			<PrefabName>Sidewinder.ec</PrefabName>
+			<PrefabName>Fury 800-YA.ec</PrefabName>
+			<PrefabName>Buggy.ec</PrefabName>
+			<PrefabName>Scrap_Buggy.ec</PrefabName>
+			<PrefabName>Scrap_Blank.ec</PrefabName>
+			<PrefabName>Scrap_Car.ec</PrefabName>
+			<PrefabName>Scrap_Hatch.ec</PrefabName>
+			<PrefabName>Scrap_Rod.ec</PrefabName>
+			<PrefabName>Scrap_Truck.ec</PrefabName>
         </GridsForSale>
 
         <CanSellOxygen>true</CanSellOxygen>
