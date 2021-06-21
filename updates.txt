@@ -1,0 +1,19 @@
+****Update v1.0.1****
+
+Added 
+
+Encounter Corvette
+Vigor
+H01-HeavyMiner
+War-Tinamou
+Skyheart
+Drifting Pursuant Model M
+Sidewinder
+Fury 800-YA
+Buggy LT
+Scrap Buggy
+Scrap Car
+Scrap Hatchback
+Scrap Hotrod
+Scrap Truck
+Scrap Blank
