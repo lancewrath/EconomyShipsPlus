@@ -2,11 +2,11 @@
 <Definitions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Prefabs>
     <Prefab xsi:type="MyObjectBuilder_PrefabDefinition">
-      <Id Type="MyObjectBuilder_PrefabDefinition" Subtype="Scrap_Hatch.ec" />
-		    <DisplayName>Scrap Hatchback</DisplayName>
-            <Description>The Scrap™ Hatchback is ready to tear up the track with a new Limited Edition rustic trim in Avacado green, featuring center gatling, missile turret and 4 spotlights.</Description>
-            <Icon>Textures\GUI\Prefabs\Scrap_Hatch.ec.dds</Icon>
-            <TooltipImage>Textures\GUI\Prefabs\Scrap_Hatch.ec.png</TooltipImage>
+      <Id Type="MyObjectBuilder_PrefabDefinition" Subtype="AGI-Rescue-Rover.ec" />
+		    <DisplayName>AGI Rescue Rover</DisplayName>
+            <Description>Originally designed for the First Colonists, this rover has stood the test of time over and over again.</Description>
+            <Icon>Textures\GUI\Prefabs\AGI-Rescue-Rover.ec.dds</Icon>
+            <TooltipImage>Textures\GUI\Prefabs\AGI-Rescue-Rover.ec.png</TooltipImage>
       	    <EnvironmentType>PlanetWithAtmosphere</EnvironmentType>
       <CubeGrids>
         <CubeGrid>

@@ -4,22 +4,25 @@
     <ShipBlueprint xsi:type="MyObjectBuilder_ShipBlueprintDefinition">
       <Id Type="MyObjectBuilder_ShipBlueprintDefinition" Subtype="Road encounter Rover Relic" />
       <DisplayName>lancewrath</DisplayName>
+      <DLC>ScrapRace</DLC>
       <DLC>DecorativeBlocks2</DLC>
       <DLC>DecorativeBlocks</DLC>
+      <DLC>Frostbite</DLC>
       <CubeGrids>
         <CubeGrid>
           <SubtypeName />
-          <EntityId>94570153303561077</EntityId>
+          <EntityId>137933827626323204</EntityId>
           <PersistentFlags>CastShadows InScene</PersistentFlags>
+          <Name>137933827626323204</Name>
           <PositionAndOrientation>
-            <Position x="-3295.6485781982797" y="20682.618357616651" z="-30495.2789064895" />
-            <Forward x="0.5906691" y="-0.5846028" z="-0.556192" />
-            <Up x="-0.565378666" y="0.191954345" z="-0.8021848" />
+            <Position x="0" y="0" z="0" />
+            <Forward x="0.388925552" y="0.535881042" z="-0.749378741" />
+            <Up x="0.590735137" y="-0.769246757" z="-0.243498653" />
             <Orientation>
-              <X>-0.4548562</X>
-              <Y>-0.122514673</Y>
-              <Z>0.44399175</Z>
-              <W>0.762212157</W>
+              <X>-0.279698282</X>
+              <Y>-0.2169781</Y>
+              <Z>0.897993445</Z>
+              <W>-0.26133725</W>
             </Orientation>
           </PositionAndOrientation>
           <LocalPositionAndOrientation xsi:nil="true" />
@@ -29,144 +32,166 @@
               <SubtypeName>LargeBlockArmorSlope2Tip</SubtypeName>
               <Min x="1" y="4" z="-2" />
               <BlockOrientation Forward="Forward" Up="Down" />
-              <ColorMaskHSV x="0.122222222" y="0.0500000119" z="0.459999949" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorSlope2Tip</SubtypeName>
-              <EntityId>76494600882892481</EntityId>
               <Min x="-2" y="4" z="0" />
-              <IntegrityPercent>0.2</IntegrityPercent>
-              <BuildPercent>0.2</BuildPercent>
               <BlockOrientation Forward="Right" Up="Up" />
-              <ColorMaskHSV x="0.122222222" y="0.0500000119" z="0.459999949" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeSteelCatwalk</SubtypeName>
-              <EntityId>136264738596730201</EntityId>
+              <EntityId>121595095862091432</EntityId>
               <Min x="0" y="2" z="-5" />
               <BlockOrientation Forward="Backward" Up="Up" />
-              <ColorMaskHSV x="0" y="-1" z="-0.06" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorSlope2Tip</SubtypeName>
               <Min x="2" y="4" z="-4" />
               <BlockOrientation Forward="Down" Up="Right" />
-              <ColorMaskHSV x="0" y="-0.799999952" z="0.55" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_AirtightSlideDoor">
               <SubtypeName>LargeBlockSlideDoor</SubtypeName>
-              <EntityId>73344668391772730</EntityId>
+              <EntityId>77162855288452702</EntityId>
               <Min x="-1" y="2" z="-5" />
-              <IntegrityPercent>0.133318081</IntegrityPercent>
-              <BuildPercent>0.133318081</BuildPercent>
-              <BlockOrientation Forward="Left" Up="Up" />
-              <ColorMaskHSV x="0" y="-0.8" z="7.450581E-09" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <Owner>144115188075855907</Owner>
+              <BlockOrientation Forward="Right" Up="Up" />
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <Owner>144115188075855897</Owner>
+              <BuiltBy>144115188075855897</BuiltBy>
               <ShareMode>Faction</ShareMode>
-              <CustomName>Sliding Door Exit</CustomName>
-              <ShowOnHUD>false</ShowOnHUD>
-              <ShowInTerminal>false</ShowInTerminal>
-              <ShowInToolbarConfig>true</ShowInToolbarConfig>
-              <ShowInInventory>true</ShowInInventory>
-              <Enabled>true</Enabled>
-              <AnyoneCanUse>false</AnyoneCanUse>
-              <Open>true</Open>
-              <CurrOpening>1</CurrOpening>
-            </MyObjectBuilder_CubeBlock>
-            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
-              <SubtypeName>LargeSteelCatwalk</SubtypeName>
-              <EntityId>99252076510046733</EntityId>
-              <Min x="0" y="1" z="-5" />
-              <BlockOrientation Forward="Left" Up="Down" />
-              <ColorMaskHSV x="0" y="-0.8" z="7.450581E-09" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-            </MyObjectBuilder_CubeBlock>
-            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_MotorSuspension">
-              <SubtypeName>Suspension3x3</SubtypeName>
-              <EntityId>132923877275324212</EntityId>
-              <Min x="0" y="2" z="-8" />
-              <BlockOrientation Forward="Up" Up="Right" />
-              <ColorMaskHSV x="0" y="-0.8" z="7.450581E-09" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <CustomName>Wheel Suspension 3x3 Right Front</CustomName>
+              <CustomName>Sliding Door 3</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
               <ShowInTerminal>true</ShowInTerminal>
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
-              <TopBlockId xsi:nil="true" />
+              <AnyoneCanUse>false</AnyoneCanUse>
+              <Open>false</Open>
+              <CurrOpening>0</CurrOpening>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>LargeSteelCatwalk</SubtypeName>
+              <EntityId>123373080920132782</EntityId>
+              <Min x="0" y="1" z="-5" />
+              <BlockOrientation Forward="Left" Up="Down" />
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_MotorSuspension">
+              <SubtypeName>OffroadSuspension3x3mirrored</SubtypeName>
+              <EntityId>120981018050108873</EntityId>
+              <Min x="-3" y="2" z="-8" />
+              <BlockOrientation Forward="Up" Up="Left" />
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
+              <CustomName>Offroad Wheel Suspension 3x3 Left 4</CustomName>
+              <ShowOnHUD>false</ShowOnHUD>
+              <ShowInTerminal>true</ShowInTerminal>
+              <ShowInToolbarConfig>true</ShowInToolbarConfig>
+              <ShowInInventory>true</ShowInInventory>
+              <Enabled>true</Enabled>
+              <TopBlockId>111546747062284943</TopBlockId>
               <ShareInertiaTensor>false</ShareInertiaTensor>
               <SafetyDetach>5</SafetyDetach>
               <RotorEntityId xsi:nil="true" />
               <WeldedEntityId xsi:nil="true" />
-              <SteerAngle>0</SteerAngle>
+              <SteerAngle>-0.00718328357</SteerAngle>
               <Damping>0.9</Damping>
               <Strength>3.40282347E+38</Strength>
               <Propulsion>true</Propulsion>
               <Friction>2.8</Friction>
               <Power>0</Power>
-              <Height>-1.5</Height>
-              <MaxSteerAngle>0.34906584</MaxSteerAngle>
+              <Height>-0.458</Height>
+              <MaxSteerAngle>0.349066</MaxSteerAngle>
               <InvertSteer>false</InvertSteer>
               <InvertPropulsion>false</InvertPropulsion>
               <SpeedLimit>180</SpeedLimit>
               <PowerNew>0.6</PowerNew>
-              <StrengthNew>0.1</StrengthNew>
+              <StrengthNew>0.06</StrengthNew>
               <FrictionNew>0.5</FrictionNew>
               <AirShockEnabled>true</AirShockEnabled>
               <BrakingEnabled>true</BrakingEnabled>
               <SteeringOverride>0</SteeringOverride>
               <PropulsionOverride>0</PropulsionOverride>
             </MyObjectBuilder_CubeBlock>
-            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
-              <SubtypeName>GratedStairs</SubtypeName>
-              <EntityId>80033980514133198</EntityId>
-              <Min x="-2" y="1" z="-5" />
-              <BlockOrientation Forward="Right" Up="Up" />
-              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_InteriorLight">
+              <SubtypeName>LargeBlockLight_1corner</SubtypeName>
+              <EntityId>86966361275874039</EntityId>
+              <Min x="-3" y="2" z="-5" />
+              <BlockOrientation Forward="Left" Up="Down" />
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
+              <CustomName>Corner Light 3</CustomName>
+              <ShowOnHUD>false</ShowOnHUD>
+              <ShowInTerminal>true</ShowInTerminal>
+              <ShowInToolbarConfig>true</ShowInToolbarConfig>
+              <ShowInInventory>true</ShowInInventory>
+              <Enabled>true</Enabled>
+              <Radius>2</Radius>
+              <ReflectorRadius>120</ReflectorRadius>
+              <Falloff>1</Falloff>
+              <Intensity>4</Intensity>
+              <BlinkIntervalSeconds>0</BlinkIntervalSeconds>
+              <BlinkLenght>10</BlinkLenght>
+              <BlinkOffset>0</BlinkOffset>
+              <Offset>0.5</Offset>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>Window1x1Flat</SubtypeName>
-              <EntityId>94563853952634478</EntityId>
+              <EntityId>105010997041835066</EntityId>
               <Min x="-3" y="4" z="-5" />
-              <ColorMaskHSV x="0" y="-1" z="-0.18" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorSlope2Tip</SubtypeName>
               <Min x="1" y="5" z="-4" />
               <BlockOrientation Forward="Left" Up="Up" />
-              <ColorMaskHSV x="0" y="-0.799999952" z="0.55" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>Window1x1Flat</SubtypeName>
-              <EntityId>106735273888123433</EntityId>
+              <EntityId>92432154296178792</EntityId>
               <Min x="2" y="4" z="-5" />
               <BlockOrientation Forward="Backward" Up="Up" />
-              <ColorMaskHSV x="0" y="-1" z="-0.18" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorSlope2Base</SubtypeName>
               <Min x="1" y="2" z="-4" />
               <BlockOrientation Forward="Left" Up="Down" />
-              <ColorMaskHSV x="0" y="-0.799999952" z="0.55" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_BatteryBlock">
               <SubtypeName>LargeBlockBatteryBlock</SubtypeName>
-              <EntityId>82751389345159893</EntityId>
+              <EntityId>132055352671958792</EntityId>
               <Min x="-1" y="2" z="-6" />
-              <ColorMaskHSV x="0.122222222" y="0.05" z="0.46" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <Owner>144115188075855908</Owner>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <Owner>144115188075855897</Owner>
+              <BuiltBy>144115188075855897</BuiltBy>
               <ShareMode>Faction</ShareMode>
               <CustomName>Battery A</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
@@ -183,97 +208,69 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>GratedStairs</SubtypeName>
-              <EntityId>96495413339304250</EntityId>
+              <EntityId>144069070577202048</EntityId>
               <Min x="0" y="2" z="-6" />
-              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorInvCorner2Base</SubtypeName>
               <Min x="-1" y="2" z="-7" />
               <BlockOrientation Forward="Left" Up="Up" />
-              <ColorMaskHSV x="0" y="-0.8" z="7.450581E-09" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
-              <SubtypeName>LargeBlockArmorInvCorner2Base</SubtypeName>
+              <SubtypeName>LargeHeavyBlockArmorBlock</SubtypeName>
               <Min x="0" y="2" z="-7" />
-              <BlockOrientation Forward="Right" Up="Backward" />
-              <ColorMaskHSV x="0" y="-0.8" z="7.450581E-09" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorSlope</SubtypeName>
               <Min x="1" y="2" z="-5" />
               <BlockOrientation Forward="Up" Up="Right" />
-              <ColorMaskHSV x="0.122222222" y="0.05" z="0.46" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-            </MyObjectBuilder_CubeBlock>
-            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_MotorSuspension">
-              <SubtypeName>Suspension3x3mirrored</SubtypeName>
-              <EntityId>111574234902118606</EntityId>
-              <Min x="-2" y="2" z="-2" />
-              <IntegrityPercent>0.09999237</IntegrityPercent>
-              <BuildPercent>0.09999237</BuildPercent>
-              <BlockOrientation Forward="Up" Up="Left" />
-              <ColorMaskHSV x="0" y="-0.8" z="7.450581E-09" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <CustomName>Wheel Suspension 3x3 Left Rear</CustomName>
-              <ShowOnHUD>false</ShowOnHUD>
-              <ShowInTerminal>true</ShowInTerminal>
-              <ShowInToolbarConfig>true</ShowInToolbarConfig>
-              <ShowInInventory>true</ShowInInventory>
-              <Enabled>true</Enabled>
-              <TopBlockId xsi:nil="true" />
-              <ShareInertiaTensor>false</ShareInertiaTensor>
-              <SafetyDetach>5</SafetyDetach>
-              <RotorEntityId xsi:nil="true" />
-              <WeldedEntityId xsi:nil="true" />
-              <SteerAngle>0</SteerAngle>
-              <Damping>0.9</Damping>
-              <Strength>3.40282347E+38</Strength>
-              <Propulsion>true</Propulsion>
-              <Friction>2.8</Friction>
-              <Power>0</Power>
-              <Height>-1.5</Height>
-              <MaxSteerAngle>0.209439516</MaxSteerAngle>
-              <InvertSteer>false</InvertSteer>
-              <InvertPropulsion>false</InvertPropulsion>
-              <SpeedLimit>180</SpeedLimit>
-              <PowerNew>0.6</PowerNew>
-              <StrengthNew>0.1</StrengthNew>
-              <FrictionNew>0.5</FrictionNew>
-              <AirShockEnabled>true</AirShockEnabled>
-              <BrakingEnabled>true</BrakingEnabled>
-              <SteeringOverride>0</SteeringOverride>
-              <PropulsionOverride>0</PropulsionOverride>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
-              <SubtypeName>LargeSteelCatwalk</SubtypeName>
-              <EntityId>93821471159089535</EntityId>
+              <SubtypeName>LargeHeavyBlockArmorBlock</SubtypeName>
+              <Min x="0" y="2" z="-2" />
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>LargeSteelCatwalkPlate</SubtypeName>
+              <EntityId>137541892766339305</EntityId>
               <Min x="-1" y="1" z="-5" />
-              <BlockOrientation Forward="Right" Up="Down" />
-              <ColorMaskHSV x="0" y="-0.8" z="7.450581E-09" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <BlockOrientation Forward="Left" Up="Down" />
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>WindowWallRight</SubtypeName>
-              <EntityId>100730382875149800</EntityId>
+              <EntityId>114720454777906684</EntityId>
               <Min x="-1" y="5" z="-5" />
               <BlockOrientation Forward="Down" Up="Backward" />
-              <ColorMaskHSV x="0.122222222" y="0.05" z="0.46" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_SolarPanel">
               <SubtypeName>LargeBlockSolarPanel</SubtypeName>
-              <EntityId>80252710015824681</EntityId>
+              <EntityId>89352104402465394</EntityId>
               <Min x="-2" y="5" z="-3" />
-              <IntegrityPercent>0.4</IntegrityPercent>
-              <BuildPercent>0.4</BuildPercent>
               <BlockOrientation Forward="Down" Up="Right" />
-              <ColorMaskHSV x="0.122222222" y="0.0500000119" z="0.459999949" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <Owner>144115188075855907</Owner>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <Owner>144115188075855897</Owner>
+              <BuiltBy>144115188075855897</BuiltBy>
               <ShareMode>Faction</ShareMode>
               <CustomName>Solar Panel B</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
@@ -286,36 +283,35 @@
               <SubtypeName>LargeBlockArmorInvCorner2Base</SubtypeName>
               <Min x="-1" y="2" z="-3" />
               <BlockOrientation Forward="Left" Up="Forward" />
-              <ColorMaskHSV x="0" y="-0.8" z="7.450581E-09" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorSlope2Base</SubtypeName>
-              <EntityId>112465500683330740</EntityId>
               <Min x="-2" y="4" z="-3" />
-              <IntegrityPercent>0.333318084</IntegrityPercent>
-              <BuildPercent>0.333318084</BuildPercent>
               <BlockOrientation Forward="Forward" Up="Down" />
-              <ColorMaskHSV x="0.122222222" y="0.0500000119" z="0.459999949" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorSlope2Tip</SubtypeName>
               <Min x="-2" y="4" z="-2" />
               <BlockOrientation Forward="Forward" Up="Down" />
-              <ColorMaskHSV x="0.122222222" y="0.0500000119" z="0.459999949" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Refinery">
               <SubtypeName>LargeRefinery</SubtypeName>
-              <EntityId>133876810571011854</EntityId>
+              <EntityId>93176132908076118</EntityId>
               <Min x="-1" y="3" z="-3" />
-              <IntegrityPercent>0.266666681</IntegrityPercent>
-              <BuildPercent>0.266666681</BuildPercent>
               <BlockOrientation Forward="Up" Up="Forward" />
-              <ColorMaskHSV x="0" y="-0.8" z="7.450581E-09" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <Owner>144115188075855908</Owner>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <Owner>144115188075855897</Owner>
+              <BuiltBy>144115188075855897</BuiltBy>
               <ShareMode>Faction</ShareMode>
               <ComponentContainer>
                 <Components>
@@ -353,10 +349,10 @@
                       <Repeat>true</Repeat>
                       <TimeToEvent>0</TimeToEvent>
                       <SetTimeMinutes>0</SetTimeMinutes>
-                      <TimerEnabled>false</TimerEnabled>
+                      <TimerEnabled>true</TimerEnabled>
                       <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                       <TimerType>Frame10</TimerType>
-                      <FramesFromLastTrigger>0</FramesFromLastTrigger>
+                      <FramesFromLastTrigger>10</FramesFromLastTrigger>
                       <TimerTickInFrames>60</TimerTickInFrames>
                       <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                     </Component>
@@ -372,22 +368,22 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>Catwalk</SubtypeName>
-              <EntityId>141709964703559907</EntityId>
+              <EntityId>139571250066478041</EntityId>
               <Min x="2" y="3" z="-5" />
               <BlockOrientation Forward="Forward" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="0" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Assembler">
               <SubtypeName>LargeAssembler</SubtypeName>
-              <EntityId>132130115000990683</EntityId>
+              <EntityId>125681486921086606</EntityId>
               <Min x="1" y="3" z="-6" />
-              <IntegrityPercent>0.249988556</IntegrityPercent>
-              <BuildPercent>0.249988556</BuildPercent>
               <BlockOrientation Forward="Forward" Up="Right" />
-              <ColorMaskHSV x="0" y="-0.8" z="7.450581E-09" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <Owner>144115188075855908</Owner>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <Owner>144115188075855897</Owner>
+              <BuiltBy>144115188075855897</BuiltBy>
               <ShareMode>Faction</ShareMode>
               <ComponentContainer>
                 <Components>
@@ -425,10 +421,10 @@
                       <Repeat>true</Repeat>
                       <TimeToEvent>0</TimeToEvent>
                       <SetTimeMinutes>0</SetTimeMinutes>
-                      <TimerEnabled>false</TimerEnabled>
+                      <TimerEnabled>true</TimerEnabled>
                       <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                       <TimerType>Frame10</TimerType>
-                      <FramesFromLastTrigger>0</FramesFromLastTrigger>
+                      <FramesFromLastTrigger>50</FramesFromLastTrigger>
                       <TimerTickInFrames>60</TimerTickInFrames>
                       <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                     </Component>
@@ -449,13 +445,12 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_ReflectorLight">
               <SubtypeName>LargeBlockFrontLight</SubtypeName>
-              <EntityId>131840909167781596</EntityId>
+              <EntityId>112314006218951260</EntityId>
               <Min x="1" y="3" z="0" />
-              <IntegrityPercent>0.299992383</IntegrityPercent>
-              <BuildPercent>0.299992383</BuildPercent>
               <BlockOrientation Forward="Backward" Up="Up" />
-              <ColorMaskHSV x="0" y="-0.8" z="7.450581E-09" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
               <CustomName>Spotlight rear</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
               <ShowInTerminal>false</ShowInTerminal>
@@ -478,55 +473,52 @@
               <SubtypeName>LargeBlockArmorSlope2Tip</SubtypeName>
               <Min x="-3" y="4" z="-4" />
               <BlockOrientation Forward="Down" Up="Left" />
-              <ColorMaskHSV x="0" y="-0.799999952" z="0.55" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorSlope2Base</SubtypeName>
               <Min x="-2" y="2" z="-6" />
               <BlockOrientation Forward="Right" Up="Down" />
-              <ColorMaskHSV x="0" y="-0.799999952" z="0.55" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorSlope2Base</SubtypeName>
-              <EntityId>85967646248594229</EntityId>
               <Min x="1" y="2" z="-6" />
-              <IntegrityPercent>0.333318084</IntegrityPercent>
-              <BuildPercent>0.333318084</BuildPercent>
               <BlockOrientation Forward="Left" Up="Down" />
-              <ColorMaskHSV x="0" y="-0.799999952" z="0.55" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>Window1x1Slope</SubtypeName>
-              <EntityId>135339798846888344</EntityId>
+              <EntityId>93143060897464146</EntityId>
               <Min x="-2" y="4" z="-10" />
-              <IntegrityPercent>0.333333343</IntegrityPercent>
-              <BuildPercent>0.333333343</BuildPercent>
               <BlockOrientation Forward="Left" Up="Up" />
-              <ColorMaskHSV x="0" y="-0.85" z="0.29" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>Window1x1Slope</SubtypeName>
-              <EntityId>129997230236878445</EntityId>
+              <EntityId>91929620973744346</EntityId>
               <Min x="1" y="4" z="-10" />
-              <IntegrityPercent>0.333333343</IntegrityPercent>
-              <BuildPercent>0.333333343</BuildPercent>
               <BlockOrientation Forward="Right" Up="Up" />
-              <ColorMaskHSV x="0" y="-0.85" z="0.29" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_BatteryBlock">
               <SubtypeName>LargeBlockBatteryBlock</SubtypeName>
-              <EntityId>93482479395888513</EntityId>
+              <EntityId>103230578549814466</EntityId>
               <Min x="0" y="3" z="-8" />
-              <IntegrityPercent>0.2</IntegrityPercent>
-              <BuildPercent>0.2</BuildPercent>
-              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <Owner>144115188075855908</Owner>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <Owner>144115188075855897</Owner>
+              <BuiltBy>144115188075855897</BuiltBy>
               <ShareMode>Faction</ShareMode>
               <CustomName>Battery 5</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
@@ -545,17 +537,19 @@
               <SubtypeName>LargeHalfSlopeArmorBlock</SubtypeName>
               <Min x="2" y="2" z="-4" />
               <BlockOrientation Forward="Up" Up="Right" />
-              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_SolarPanel">
               <SubtypeName>LargeBlockSolarPanel</SubtypeName>
-              <EntityId>131324167916547867</EntityId>
+              <EntityId>113697250041108494</EntityId>
               <Min x="0" y="5" z="-3" />
               <BlockOrientation Forward="Down" Up="Right" />
-              <ColorMaskHSV x="0.122222222" y="0.0500000119" z="0.459999949" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <Owner>144115188075855907</Owner>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <Owner>144115188075855897</Owner>
+              <BuiltBy>144115188075855897</BuiltBy>
               <ShareMode>Faction</ShareMode>
               <CustomName>Solar Panel A</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
@@ -566,23 +560,21 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockDeskChairlessCorner</SubtypeName>
-              <EntityId>111845817976830922</EntityId>
+              <EntityId>91230630048340036</EntityId>
               <Min x="-1" y="4" z="-5" />
-              <IntegrityPercent>0.5499962</IntegrityPercent>
-              <BuildPercent>0.5499962</BuildPercent>
               <BlockOrientation Forward="Right" Up="Up" />
-              <ColorMaskHSV x="0.122222222" y="0.05" z="0.46" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_ReflectorLight">
               <SubtypeName>LargeBlockFrontLight</SubtypeName>
-              <EntityId>112318784258215814</EntityId>
+              <EntityId>103279363627471339</EntityId>
               <Min x="-2" y="3" z="0" />
-              <IntegrityPercent>0.2</IntegrityPercent>
-              <BuildPercent>0.2</BuildPercent>
               <BlockOrientation Forward="Backward" Up="Up" />
-              <ColorMaskHSV x="0" y="-0.8" z="7.450581E-09" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
               <CustomName>Spotlight rear</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
               <ShowInTerminal>false</ShowInTerminal>
@@ -601,32 +593,41 @@
               <Offset>0.5</Offset>
               <RotationSpeed>0.08</RotationSpeed>
             </MyObjectBuilder_CubeBlock>
-            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
-              <SubtypeName>LargeBlockArmorSlope</SubtypeName>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_AirVent">
+              <SubtypeName />
+              <EntityId>129903560230462467</EntityId>
               <Min x="-2" y="3" z="-4" />
-              <BlockOrientation Forward="Up" Up="Left" />
+              <BlockOrientation Forward="Left" Up="Backward" />
               <ColorMaskHSV x="0" y="-0.8" z="0" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <Owner>144115188075855897</Owner>
+              <BuiltBy>144115188075855897</BuiltBy>
+              <ShareMode>Faction</ShareMode>
+              <CustomName>Air Vent 3</CustomName>
+              <ShowOnHUD>false</ShowOnHUD>
+              <ShowInTerminal>true</ShowInTerminal>
+              <ShowInToolbarConfig>true</ShowInToolbarConfig>
+              <ShowInInventory>true</ShowInInventory>
+              <Enabled>true</Enabled>
+              <IsDepressurizing>false</IsDepressurizing>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>CatwalkWall</SubtypeName>
-              <EntityId>123664605748080413</EntityId>
+              <EntityId>137749318642974864</EntityId>
               <Min x="0" y="4" z="-7" />
-              <IntegrityPercent>0.4</IntegrityPercent>
-              <BuildPercent>0.4</BuildPercent>
-              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_AirtightSlideDoor">
               <SubtypeName>LargeBlockSlideDoor</SubtypeName>
-              <EntityId>116342331348532876</EntityId>
+              <EntityId>130874795629585500</EntityId>
               <Min x="0" y="4" z="-8" />
-              <IntegrityPercent>0.166659042</IntegrityPercent>
-              <BuildPercent>0.166659042</BuildPercent>
               <BlockOrientation Forward="Backward" Up="Up" />
-              <ColorMaskHSV x="0" y="-0.8" z="7.450581E-09" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <Owner>144115188075855907</Owner>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <Owner>144115188075855897</Owner>
+              <BuiltBy>144115188075855897</BuiltBy>
               <ShareMode>Faction</ShareMode>
               <CustomName>Sliding Door Cabin</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
@@ -640,13 +641,14 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CargoContainer">
               <SubtypeName>LargeBlockLockers</SubtypeName>
-              <EntityId>104994253226155507</EntityId>
+              <EntityId>129682018545026608</EntityId>
               <Min x="-1" y="3" z="-7" />
               <IntegrityPercent>0.7857023</IntegrityPercent>
               <BuildPercent>0.7857023</BuildPercent>
-              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <Owner>144115188075855908</Owner>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <Owner>144115188075855897</Owner>
+              <BuiltBy>144115188075855897</BuiltBy>
               <ShareMode>All</ShareMode>
               <ComponentContainer>
                 <Components>
@@ -680,23 +682,23 @@
               <ShowInInventory>true</ShowInInventory>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
-              <SubtypeName>LargeBlockArmorCornerInv</SubtypeName>
-              <EntityId>83729791530963920</EntityId>
-              <Min x="1" y="3" z="-7" />
-              <IntegrityPercent>0.2</IntegrityPercent>
-              <BuildPercent>0.2</BuildPercent>
-              <ColorMaskHSV x="0.122222222" y="0.05" z="0.46" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <SubtypeName>LargeHeavyBlockArmorSlope2Base</SubtypeName>
+              <Min x="1" y="2" z="-7" />
+              <BlockOrientation Forward="Left" Up="Down" />
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_BatteryBlock">
               <SubtypeName>LargeBlockBatteryBlock</SubtypeName>
-              <EntityId>81647154123159648</EntityId>
+              <EntityId>88674889730678825</EntityId>
               <Min x="-1" y="3" z="-8" />
               <IntegrityPercent>0.5499962</IntegrityPercent>
               <BuildPercent>0.5499962</BuildPercent>
-              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <Owner>144115188075855908</Owner>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <Owner>144115188075855897</Owner>
+              <BuiltBy>144115188075855897</BuiltBy>
               <ShareMode>Faction</ShareMode>
               <CustomName>Battery 7</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
@@ -715,54 +717,55 @@
               <SubtypeName>LargeBlockArmorSlope2Tip</SubtypeName>
               <Min x="2" y="4" z="-6" />
               <BlockOrientation Forward="Down" Up="Right" />
-              <ColorMaskHSV x="0" y="-0.799999952" z="0.55" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeHalfArmorBlock</SubtypeName>
-              <EntityId>94198444372894851</EntityId>
               <Min x="2" y="3" z="-6" />
-              <IntegrityPercent>0.2</IntegrityPercent>
-              <BuildPercent>0.2</BuildPercent>
               <BlockOrientation Forward="Left" Up="Up" />
-              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeHalfArmorBlock</SubtypeName>
-              <EntityId>118781382416757234</EntityId>
               <Min x="-3" y="3" z="-6" />
-              <IntegrityPercent>0.4</IntegrityPercent>
-              <BuildPercent>0.4</BuildPercent>
               <BlockOrientation Forward="Right" Up="Down" />
-              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorInvCorner2Base</SubtypeName>
               <Min x="1" y="4" z="-7" />
               <BlockOrientation Forward="Forward" Up="Left" />
-              <ColorMaskHSV x="0.122222222" y="0.0500000119" z="0.459999949" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorBlock</SubtypeName>
               <Min x="-1" y="3" z="-9" />
-              <ColorMaskHSV x="0" y="-0.8" z="7.450581E-09" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorBlock</SubtypeName>
               <Min x="0" y="3" z="-9" />
-              <ColorMaskHSV x="0" y="-0.8" z="7.450581E-09" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorSlope2Base</SubtypeName>
               <Min x="0" y="3" z="-10" />
               <BlockOrientation Forward="Down" Up="Forward" />
-              <ColorMaskHSV x="0" y="-1" z="-0.06" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorInvCorner2Tip</SubtypeName>
@@ -770,113 +773,117 @@
               <IntegrityPercent>0.8665598</IntegrityPercent>
               <BuildPercent>0.8665598</BuildPercent>
               <BlockOrientation Forward="Forward" Up="Down" />
-              <ColorMaskHSV x="0.122222222" y="0.0500000119" z="0.459999949" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorInvCorner2Tip</SubtypeName>
               <Min x="1" y="4" z="-8" />
               <BlockOrientation Forward="Forward" Up="Left" />
-              <ColorMaskHSV x="0.122222222" y="0.0500000119" z="0.459999949" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>Window1x1Slope</SubtypeName>
-              <EntityId>120882529827864761</EntityId>
+              <EntityId>99007004235732938</EntityId>
               <Min x="0" y="4" z="-11" />
-              <IntegrityPercent>0.333333343</IntegrityPercent>
-              <BuildPercent>0.333333343</BuildPercent>
-              <ColorMaskHSV x="0" y="-0.85" z="0.29" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorCorner</SubtypeName>
               <Min x="-2" y="3" z="-11" />
               <BlockOrientation Forward="Backward" Up="Down" />
-              <ColorMaskHSV x="0.122222222" y="0.0500000119" z="0.459999949" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>Window1x1Slope</SubtypeName>
-              <EntityId>87585885130083476</EntityId>
+              <EntityId>131597653587311079</EntityId>
               <Min x="-1" y="4" z="-11" />
-              <IntegrityPercent>0.333333343</IntegrityPercent>
-              <BuildPercent>0.333333343</BuildPercent>
-              <ColorMaskHSV x="0" y="-0.85" z="0.29" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>Window1x1Face</SubtypeName>
-              <EntityId>83605511580913019</EntityId>
+              <EntityId>106103287926354836</EntityId>
               <Min x="1" y="4" z="-11" />
-              <IntegrityPercent>0.2</IntegrityPercent>
-              <BuildPercent>0.2</BuildPercent>
               <BlockOrientation Forward="Left" Up="Up" />
-              <ColorMaskHSV x="0" y="-0.85" z="0.29" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>Window1x1Face</SubtypeName>
-              <EntityId>74433180652675269</EntityId>
+              <EntityId>113508621464937076</EntityId>
               <Min x="-2" y="4" z="-11" />
               <BlockOrientation Forward="Backward" Up="Up" />
-              <ColorMaskHSV x="0" y="-0.85" z="0.29" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeHeavyBlockArmorSlope2Tip</SubtypeName>
               <Min x="2" y="2" z="-11" />
               <BlockOrientation Forward="Down" Up="Forward" />
-              <ColorMaskHSV x="0" y="-1" z="-0.12" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorCorner</SubtypeName>
               <Min x="1" y="3" z="-11" />
               <BlockOrientation Forward="Backward" Up="Right" />
-              <ColorMaskHSV x="0.122222222" y="0.0500000119" z="0.459999949" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>Window1x1Slope</SubtypeName>
-              <EntityId>102712123825148690</EntityId>
+              <EntityId>93532391160466280</EntityId>
               <Min x="-1" y="3" z="-11" />
-              <IntegrityPercent>0.5</IntegrityPercent>
-              <BuildPercent>0.5</BuildPercent>
               <BlockOrientation Forward="Down" Up="Forward" />
-              <ColorMaskHSV x="0" y="-0.85" z="0.29" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorSlope</SubtypeName>
               <Min x="-2" y="3" z="-10" />
               <BlockOrientation Forward="Up" Up="Left" />
-              <ColorMaskHSV x="0.122222222" y="0.0500000119" z="0.459999949" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorSlope</SubtypeName>
               <Min x="1" y="3" z="-10" />
               <BlockOrientation Forward="Up" Up="Right" />
-              <ColorMaskHSV x="0.122222222" y="0.0500000119" z="0.459999949" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>ArmorSide</SubtypeName>
-              <EntityId>95863070835736377</EntityId>
+              <EntityId>127059981960910694</EntityId>
               <Min x="-1" y="2" z="-10" />
-              <IntegrityPercent>0.236102864</IntegrityPercent>
-              <BuildPercent>0.236102864</BuildPercent>
               <BlockOrientation Forward="Up" Up="Left" />
-              <ColorMaskHSV x="0" y="-1" z="-0.12" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_ReflectorLight">
               <SubtypeName>LargeBlockFrontLight</SubtypeName>
-              <EntityId>107894147875391638</EntityId>
+              <EntityId>99475769269605900</EntityId>
               <Min x="1" y="2" z="-11" />
-              <ColorMaskHSV x="0" y="-1" z="-0.18" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
               <CustomName>Spotlight front</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
               <ShowInTerminal>false</ShowInTerminal>
@@ -899,18 +906,18 @@
               <SubtypeName>LargeBlockArmorInvCorner2Base</SubtypeName>
               <Min x="-1" y="3" z="-10" />
               <BlockOrientation Forward="Up" Up="Backward" />
-              <ColorMaskHSV x="0" y="-1" z="-0.06" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Cockpit">
               <SubtypeName>OpenCockpitLarge</SubtypeName>
-              <EntityId>126189238293046083</EntityId>
+              <EntityId>75709491820160927</EntityId>
               <Min x="-1" y="4" z="-10" />
-              <IntegrityPercent>0.249988556</IntegrityPercent>
-              <BuildPercent>0.249988556</BuildPercent>
-              <ColorMaskHSV x="0.122222222" y="0.05" z="0.46" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <Owner>144115188075855908</Owner>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <Owner>144115188075855897</Owner>
+              <BuiltBy>144115188075855897</BuiltBy>
               <ShareMode>Faction</ShareMode>
               <ComponentContainer>
                 <Components>
@@ -948,9 +955,19 @@
                 <Slots />
                 <SlotsGamepad />
               </BuildToolbar>
-              <PilotRelativeWorld xsi:nil="true" />
-              <PilotGunDefinition xsi:nil="true" />
-              <IsInFirstPersonView>true</IsInFirstPersonView>
+              <PilotRelativeWorld>
+                <Position x="2.4327363967895508" y="-0.89205896854400635" z="-0.71125078201293945" />
+                <Forward x="-0.589836657" y="-0.27373758" z="0.75971067" />
+                <Up x="-0.7360882" y="0.569125235" z="-0.3664298" />
+                <Orientation>
+                  <X>-0.463281959</X>
+                  <Y>0.8156134</Y>
+                  <Z>-0.0284118485</Z>
+                  <W>0.345452458</W>
+                </Orientation>
+              </PilotRelativeWorld>
+              <PilotGunDefinition Type="MyObjectBuilder_Welder" Subtype="Welder4" />
+              <IsInFirstPersonView>false</IsInFirstPersonView>
               <OxygenLevel>0</OxygenLevel>
               <PilotJetpackEnabled xsi:nil="true" />
               <TextPanels>
@@ -1228,40 +1245,43 @@
               <SubtypeName>LargeHeavyBlockArmorSlope2Base</SubtypeName>
               <Min x="0" y="2" z="-9" />
               <BlockOrientation Forward="Backward" Up="Right" />
-              <ColorMaskHSV x="0" y="-0.8" z="7.450581E-09" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeHeavyBlockArmorSlope2Tip</SubtypeName>
               <Min x="2" y="2" z="-10" />
               <BlockOrientation Forward="Up" Up="Backward" />
-              <ColorMaskHSV x="0" y="-1" z="-0.12" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeSteelCatwalk</SubtypeName>
-              <EntityId>73035247194602784</EntityId>
+              <EntityId>132852248710153254</EntityId>
               <Min x="-2" y="2" z="-10" />
-              <IntegrityPercent>0.2</IntegrityPercent>
-              <BuildPercent>0.2</BuildPercent>
               <BlockOrientation Forward="Up" Up="Backward" />
-              <ColorMaskHSV x="0" y="-1" z="-0.12" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>ArmorSide</SubtypeName>
-              <EntityId>102611044712744917</EntityId>
+              <EntityId>105295838219921319</EntityId>
               <Min x="-1" y="2" z="-11" />
               <BlockOrientation Forward="Down" Up="Forward" />
-              <ColorMaskHSV x="0" y="-1" z="-0.18" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_InteriorLight">
               <SubtypeName>SmallLight</SubtypeName>
-              <EntityId>136945772448908799</EntityId>
+              <EntityId>118271376214309599</EntityId>
               <Min x="0" y="2" z="-12" />
-              <ColorMaskHSV x="0" y="-0.85" z="0.2" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
               <CustomName>Front light</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
               <ShowInTerminal>false</ShowInTerminal>
@@ -1281,10 +1301,11 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_InteriorLight">
               <SubtypeName>SmallLight</SubtypeName>
-              <EntityId>96185668063770280</EntityId>
+              <EntityId>76726375124780394</EntityId>
               <Min x="-1" y="2" z="-12" />
-              <ColorMaskHSV x="0" y="-0.85" z="0.2" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
               <CustomName>Front light</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
               <ShowInTerminal>false</ShowInTerminal>
@@ -1304,31 +1325,30 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeSteelCatwalk</SubtypeName>
-              <EntityId>110258428871158590</EntityId>
+              <EntityId>87591964013907595</EntityId>
               <Min x="1" y="2" z="-10" />
-              <IntegrityPercent>0.2</IntegrityPercent>
-              <BuildPercent>0.2</BuildPercent>
               <BlockOrientation Forward="Up" Up="Backward" />
-              <ColorMaskHSV x="0" y="-1" z="-0.12" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeHeavyBlockArmorSlope2Base</SubtypeName>
               <Min x="-1" y="2" z="-9" />
               <BlockOrientation Forward="Backward" Up="Left" />
-              <ColorMaskHSV x="0" y="-0.8" z="7.450581E-09" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_OreDetector">
               <SubtypeName>LargeOreDetector</SubtypeName>
-              <EntityId>139867974894877381</EntityId>
+              <EntityId>132178876032666110</EntityId>
               <Min x="-1" y="4" z="-8" />
-              <IntegrityPercent>0.13333334</IntegrityPercent>
-              <BuildPercent>0.13333334</BuildPercent>
               <BlockOrientation Forward="Up" Up="Right" />
-              <ColorMaskHSV x="0.122222222" y="0.0500000119" z="0.459999949" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <Owner>144115188075855908</Owner>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <Owner>144115188075855897</Owner>
+              <BuiltBy>144115188075855897</BuiltBy>
               <ShareMode>Faction</ShareMode>
               <CustomName>Ore Detector</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
@@ -1339,62 +1359,63 @@
               <DetectionRadius>150</DetectionRadius>
               <BroadcastUsingAntennas>true</BroadcastUsingAntennas>
             </MyObjectBuilder_CubeBlock>
-            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Kitchen">
-              <SubtypeName>LargeBlockKitchen</SubtypeName>
-              <EntityId>80616194370138038</EntityId>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>Catwalk</SubtypeName>
+              <EntityId>104538957044646768</EntityId>
               <Min x="-2" y="4" z="-4" />
-              <BlockOrientation Forward="Backward" Up="Up" />
-              <ColorMaskHSV x="0.122222222" y="0.05" z="0.46" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorSlope</SubtypeName>
-              <EntityId>80222620887644183</EntityId>
               <Min x="-2" y="3" z="-8" />
-              <IntegrityPercent>0.4</IntegrityPercent>
-              <BuildPercent>0.4</BuildPercent>
               <BlockOrientation Forward="Up" Up="Left" />
-              <ColorMaskHSV x="0.122222222" y="0.05" z="0.46" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorSlope</SubtypeName>
               <Min x="-2" y="3" z="-9" />
               <BlockOrientation Forward="Up" Up="Left" />
-              <ColorMaskHSV x="0.122222222" y="0.05" z="0.46" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorSlope</SubtypeName>
               <Min x="1" y="3" z="-9" />
               <BlockOrientation Forward="Up" Up="Right" />
-              <ColorMaskHSV x="0.122222222" y="0.05" z="0.46" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorCornerInv</SubtypeName>
               <Min x="-2" y="3" z="-7" />
               <BlockOrientation Forward="Forward" Up="Right" />
-              <ColorMaskHSV x="0.122222222" y="0.05" z="0.46" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeHalfSlopeArmorBlock</SubtypeName>
               <Min x="-3" y="2" z="-4" />
               <BlockOrientation Forward="Up" Up="Left" />
-              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_OxygenGenerator">
               <SubtypeName />
-              <EntityId>75283773894703410</EntityId>
+              <EntityId>75868248543394655</EntityId>
               <Min x="0" y="2" z="-4" />
-              <IntegrityPercent>0.2727245</IntegrityPercent>
-              <BuildPercent>0.2727245</BuildPercent>
               <BlockOrientation Forward="Right" Up="Down" />
-              <ColorMaskHSV x="0" y="-1" z="-0.12" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <Owner>144115188075855908</Owner>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <Owner>144115188075855897</Owner>
+              <BuiltBy>144115188075855897</BuiltBy>
               <ShareMode>Faction</ShareMode>
               <ComponentContainer>
                 <Components>
@@ -1403,7 +1424,7 @@
                     <Component xsi:type="MyObjectBuilder_Inventory">
                       <Items>
                         <MyObjectBuilder_InventoryItem>
-                          <Amount>2000</Amount>
+                          <Amount>5772.972876</Amount>
                           <PhysicalContent xsi:type="MyObjectBuilder_Ore">
                             <SubtypeName>Ice</SubtypeName>
                           </PhysicalContent>
@@ -1428,7 +1449,7 @@
                       <TimerEnabled>false</TimerEnabled>
                       <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                       <TimerType>Frame10</TimerType>
-                      <FramesFromLastTrigger>0</FramesFromLastTrigger>
+                      <FramesFromLastTrigger>60</FramesFromLastTrigger>
                       <TimerTickInFrames>300</TimerTickInFrames>
                       <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                     </Component>
@@ -1446,31 +1467,35 @@
               <SubtypeName>LargeBlockArmorSlope2Tip</SubtypeName>
               <Min x="-2" y="5" z="-5" />
               <BlockOrientation Forward="Right" Up="Up" />
-              <ColorMaskHSV x="0.122222222" y="0.0500000119" z="0.459999949" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorSlope2Tip</SubtypeName>
               <Min x="-1" y="5" z="-7" />
               <BlockOrientation Forward="Backward" Up="Up" />
-              <ColorMaskHSV x="0.122222222" y="0.0500000119" z="0.459999949" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorSlope2Tip</SubtypeName>
               <Min x="1" y="2" z="0" />
               <BlockOrientation Forward="Up" Up="Forward" />
-              <ColorMaskHSV x="0" y="-0.8" z="7.450581E-09" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_BatteryBlock">
               <SubtypeName>LargeBlockBatteryBlock</SubtypeName>
-              <EntityId>105349120244462205</EntityId>
+              <EntityId>116840546730639318</EntityId>
               <Min x="-1" y="2" z="-4" />
               <BlockOrientation Forward="Left" Up="Up" />
-              <ColorMaskHSV x="0.122222222" y="-0.1" z="0.07" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <Owner>144115188075855908</Owner>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <Owner>144115188075855897</Owner>
+              <BuiltBy>144115188075855897</BuiltBy>
               <ShareMode>Faction</ShareMode>
               <CustomName>Emergency Battery </CustomName>
               <ShowOnHUD>false</ShowOnHUD>
@@ -1487,31 +1512,27 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorSlope2Tip</SubtypeName>
-              <EntityId>137616133427213766</EntityId>
               <Min x="-2" y="5" z="-6" />
-              <IntegrityPercent>0.2</IntegrityPercent>
-              <BuildPercent>0.2</BuildPercent>
               <BlockOrientation Forward="Right" Up="Up" />
-              <ColorMaskHSV x="0" y="-0.799999952" z="0.55" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorSlope2Tip</SubtypeName>
-              <EntityId>76581818045743756</EntityId>
               <Min x="0" y="5" z="-7" />
-              <IntegrityPercent>0.2</IntegrityPercent>
-              <BuildPercent>0.2</BuildPercent>
               <BlockOrientation Forward="Backward" Up="Up" />
-              <ColorMaskHSV x="0.122222222" y="0.05" z="0.46" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_InteriorLight">
               <SubtypeName>SmallLight</SubtypeName>
-              <EntityId>109890212702581725</EntityId>
+              <EntityId>73143307658086787</EntityId>
               <Min x="-1" y="4" z="-9" />
-              <IntegrityPercent>0.499992371</IntegrityPercent>
-              <ColorMaskHSV x="0" y="-0.85" z="0.2" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
               <CustomName>Cabine Light</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
               <ShowInTerminal>false</ShowInTerminal>
@@ -1531,35 +1552,37 @@
               <SubtypeName>LargeBlockArmorSlope2Base</SubtypeName>
               <Min x="1" y="4" z="-3" />
               <BlockOrientation Forward="Forward" Up="Down" />
-              <ColorMaskHSV x="0.122222222" y="0.0500000119" z="0.459999949" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>ArmorSide</SubtypeName>
-              <EntityId>81247135305976675</EntityId>
+              <EntityId>129594759283846768</EntityId>
               <Min x="0" y="2" z="-11" />
               <BlockOrientation Forward="Down" Up="Forward" />
-              <ColorMaskHSV x="0" y="-1" z="-0.18" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>Catwalk</SubtypeName>
-              <EntityId>141636576805270786</EntityId>
+              <EntityId>92625090524234970</EntityId>
               <Min x="-3" y="3" z="-5" />
               <BlockOrientation Forward="Forward" Up="Left" />
               <ColorMaskHSV x="0" y="-0.8" z="0" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Beacon">
               <SubtypeName>LargeBlockBeacon</SubtypeName>
-              <EntityId>109792383993610833</EntityId>
+              <EntityId>120790539194968763</EntityId>
               <Min x="-1" y="2" z="0" />
-              <IntegrityPercent>0.349996179</IntegrityPercent>
-              <BuildPercent>0.349996179</BuildPercent>
               <BlockOrientation Forward="Forward" Up="Right" />
-              <ColorMaskHSV x="0" y="-0.8" z="7.450581E-09" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <Owner>144115188075855908</Owner>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <Owner>144115188075855897</Owner>
+              <BuiltBy>144115188075855897</BuiltBy>
               <ShareMode>Faction</ShareMode>
               <CustomName>Rescue Rover</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
@@ -1574,52 +1597,50 @@
               <SubtypeName>LargeBlockArmorSlope2Tip</SubtypeName>
               <Min x="1" y="4" z="0" />
               <BlockOrientation Forward="Left" Up="Up" />
-              <ColorMaskHSV x="0.122222222" y="0.0500000119" z="0.459999949" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorSlope2Tip</SubtypeName>
-              <EntityId>85148214199373345</EntityId>
               <Min x="-3" y="4" z="-6" />
-              <IntegrityPercent>0.2</IntegrityPercent>
-              <BuildPercent>0.2</BuildPercent>
               <BlockOrientation Forward="Down" Up="Left" />
-              <ColorMaskHSV x="0" y="-0.799999952" z="0.55" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_MotorSuspension">
-              <SubtypeName>Suspension3x3</SubtypeName>
-              <EntityId>143862278281300270</EntityId>
-              <Min x="0" y="2" z="-2" />
-              <IntegrityPercent>0.2</IntegrityPercent>
-              <BuildPercent>0.2</BuildPercent>
+              <SubtypeName>OffroadSuspension3x3</SubtypeName>
+              <EntityId>108944819042395747</EntityId>
+              <Min x="1" y="2" z="-2" />
               <BlockOrientation Forward="Up" Up="Right" />
-              <ColorMaskHSV x="0" y="-0.8" z="7.450581E-09" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <CustomName>Wheel Suspension 3x3 Right Rear</CustomName>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
+              <CustomName>Offroad Wheel Suspension 3x3 Right 5</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
               <ShowInTerminal>true</ShowInTerminal>
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
-              <TopBlockId xsi:nil="true" />
+              <TopBlockId>95093097476937464</TopBlockId>
               <ShareInertiaTensor>false</ShareInertiaTensor>
               <SafetyDetach>5</SafetyDetach>
               <RotorEntityId xsi:nil="true" />
               <WeldedEntityId xsi:nil="true" />
-              <SteerAngle>0</SteerAngle>
+              <SteerAngle>0.00718328357</SteerAngle>
               <Damping>0.9</Damping>
               <Strength>3.40282347E+38</Strength>
               <Propulsion>true</Propulsion>
               <Friction>2.8</Friction>
               <Power>0</Power>
-              <Height>-1.5</Height>
-              <MaxSteerAngle>0.206481621</MaxSteerAngle>
+              <Height>-0.458</Height>
+              <MaxSteerAngle>0.349066</MaxSteerAngle>
               <InvertSteer>false</InvertSteer>
               <InvertPropulsion>false</InvertPropulsion>
               <SpeedLimit>180</SpeedLimit>
               <PowerNew>0.6</PowerNew>
-              <StrengthNew>0.1</StrengthNew>
+              <StrengthNew>0.06</StrengthNew>
               <FrictionNew>0.5</FrictionNew>
               <AirShockEnabled>true</AirShockEnabled>
               <BrakingEnabled>true</BrakingEnabled>
@@ -1628,12 +1649,12 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_InteriorLight">
               <SubtypeName>SmallLight</SubtypeName>
-              <EntityId>75357655999843745</EntityId>
+              <EntityId>119394990955173683</EntityId>
               <Min x="-1" y="4" z="-6" />
-              <IntegrityPercent>0.499992371</IntegrityPercent>
               <BlockOrientation Forward="Down" Up="Right" />
-              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
               <CustomName>Interior Light</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
               <ShowInTerminal>true</ShowInTerminal>
@@ -1657,63 +1678,66 @@
               <IntegrityPercent>0.9499962</IntegrityPercent>
               <BuildPercent>0.9499962</BuildPercent>
               <BlockOrientation Forward="Down" Up="Left" />
-              <ColorMaskHSV x="0.122222222" y="0.0500000119" z="0.459999949" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorInvCorner2Base</SubtypeName>
               <Min x="-2" y="4" z="-7" />
               <BlockOrientation Forward="Forward" Up="Down" />
-              <ColorMaskHSV x="0.122222222" y="0.0500000119" z="0.459999949" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorSlope</SubtypeName>
               <Min x="1" y="4" z="-9" />
               <BlockOrientation Forward="Down" Up="Right" />
-              <ColorMaskHSV x="0.122222222" y="0.0500000119" z="0.459999949" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorSlope2Tip</SubtypeName>
               <Min x="1" y="2" z="1" />
               <BlockOrientation Forward="Down" Up="Backward" />
-              <ColorMaskHSV x="0" y="-0.8" z="7.450581E-09" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_MotorSuspension">
-              <SubtypeName>Suspension3x3mirrored</SubtypeName>
-              <EntityId>119652617971508219</EntityId>
-              <Min x="-2" y="2" z="-8" />
-              <IntegrityPercent>0.2</IntegrityPercent>
-              <BuildPercent>0.2</BuildPercent>
-              <BlockOrientation Forward="Up" Up="Left" />
-              <ColorMaskHSV x="0" y="-0.8" z="7.450581E-09" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <CustomName>Wheel Suspension 3x3 Left Front</CustomName>
+              <SubtypeName>OffroadSuspension3x3</SubtypeName>
+              <EntityId>105842196701917951</EntityId>
+              <Min x="1" y="2" z="-8" />
+              <BlockOrientation Forward="Up" Up="Right" />
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
+              <CustomName>Offroad Wheel Suspension 3x3 Right 4</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
               <ShowInTerminal>true</ShowInTerminal>
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
-              <TopBlockId xsi:nil="true" />
+              <TopBlockId>101741408369739264</TopBlockId>
               <ShareInertiaTensor>false</ShareInertiaTensor>
               <SafetyDetach>5</SafetyDetach>
               <RotorEntityId xsi:nil="true" />
               <WeldedEntityId xsi:nil="true" />
-              <SteerAngle>0</SteerAngle>
+              <SteerAngle>-0.00718328357</SteerAngle>
               <Damping>0.9</Damping>
               <Strength>3.40282347E+38</Strength>
               <Propulsion>true</Propulsion>
               <Friction>2.8</Friction>
               <Power>0</Power>
-              <Height>-1.5</Height>
-              <MaxSteerAngle>0.34906584</MaxSteerAngle>
+              <Height>-0.458</Height>
+              <MaxSteerAngle>0.349066</MaxSteerAngle>
               <InvertSteer>false</InvertSteer>
               <InvertPropulsion>false</InvertPropulsion>
               <SpeedLimit>180</SpeedLimit>
               <PowerNew>0.6</PowerNew>
-              <StrengthNew>0.1</StrengthNew>
+              <StrengthNew>0.06</StrengthNew>
               <FrictionNew>0.5</FrictionNew>
               <AirShockEnabled>true</AirShockEnabled>
               <BrakingEnabled>true</BrakingEnabled>
@@ -1724,89 +1748,98 @@
               <SubtypeName>LargeBlockArmorSlope2Tip</SubtypeName>
               <Min x="1" y="5" z="-6" />
               <BlockOrientation Forward="Left" Up="Up" />
-              <ColorMaskHSV x="0" y="-0.799999952" z="0.55" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorSlope2Base</SubtypeName>
               <Min x="-1" y="2" z="-1" />
               <BlockOrientation Forward="Forward" Up="Down" />
-              <ColorMaskHSV x="0" y="-0.8" z="7.450581E-09" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorBlock</SubtypeName>
               <Min x="-2" y="3" z="-6" />
-              <ColorMaskHSV x="0" y="-0.8" z="7.450581E-09" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorSlope2Base</SubtypeName>
               <Min x="0" y="2" z="-1" />
               <BlockOrientation Forward="Forward" Up="Down" />
-              <ColorMaskHSV x="0" y="-0.8" z="7.450581E-09" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeInteriorPillar</SubtypeName>
-              <EntityId>141472000906134469</EntityId>
+              <EntityId>128689446625835201</EntityId>
               <Min x="-2" y="5" z="-7" />
-              <IntegrityPercent>0.499992371</IntegrityPercent>
-              <BuildPercent>0.499992371</BuildPercent>
               <BlockOrientation Forward="Left" Up="Down" />
-              <ColorMaskHSV x="0" y="-0.8" z="7.450581E-09" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorCorner2Tip</SubtypeName>
               <Min x="1" y="5" z="-7" />
               <BlockOrientation Forward="Left" Up="Forward" />
-              <ColorMaskHSV x="0.122222222" y="0.0500000119" z="0.459999949" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
-              <SubtypeName>LargeBlockArmorSlope</SubtypeName>
+              <SubtypeName>LargeHeavyBlockArmorCornerInv</SubtypeName>
               <Min x="1" y="3" z="-8" />
-              <BlockOrientation Forward="Up" Up="Right" />
-              <ColorMaskHSV x="0.122222222" y="0.05" z="0.46" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorInvCorner2Base</SubtypeName>
               <Min x="0" y="2" z="-3" />
               <BlockOrientation Forward="Right" Up="Up" />
-              <ColorMaskHSV x="0" y="-0.8" z="7.450581E-09" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Conveyor">
               <SubtypeName>LargeBlockConveyor</SubtypeName>
-              <EntityId>94046352046575879</EntityId>
+              <EntityId>88406547084444505</EntityId>
               <Min x="1" y="3" z="-4" />
-              <ColorMaskHSV x="0" y="-1" z="-0.18" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Conveyor">
               <SubtypeName>LargeBlockConveyor</SubtypeName>
-              <EntityId>74302889288012674</EntityId>
+              <EntityId>115609668546966398</EntityId>
               <Min x="-1" y="3" z="-4" />
-              <ColorMaskHSV x="0" y="-1" z="-0.06" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>GratedStairs</SubtypeName>
-              <EntityId>139647729348964547</EntityId>
+              <EntityId>83520011952874974</EntityId>
               <Min x="-1" y="3" z="-6" />
               <BlockOrientation Forward="Backward" Up="Up" />
-              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CargoContainer">
               <SubtypeName>LargeBlockSmallContainer</SubtypeName>
-              <EntityId>134818187900564832</EntityId>
+              <EntityId>77115023873673901</EntityId>
               <Min x="1" y="4" z="-4" />
-              <ColorMaskHSV x="0" y="-1" z="-0.12" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <Owner>144115188075855908</Owner>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <Owner>144115188075855897</Owner>
+              <BuiltBy>144115188075855897</BuiltBy>
               <ShareMode>All</ShareMode>
               <ComponentContainer>
                 <Components>
@@ -1849,42 +1882,43 @@
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorBlock</SubtypeName>
               <Min x="-2" y="3" z="-5" />
-              <ColorMaskHSV x="0" y="-0.8" z="7.450581E-09" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>CatwalkWall</SubtypeName>
-              <EntityId>73004892335405334</EntityId>
+              <EntityId>73523502454392168</EntityId>
               <Min x="0" y="4" z="-6" />
-              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>Shower</SubtypeName>
-              <EntityId>89543446784338901</EntityId>
+              <EntityId>102702209604099404</EntityId>
               <Min x="1" y="4" z="-6" />
-              <IntegrityPercent>0.3570916</IntegrityPercent>
-              <BuildPercent>0.3570916</BuildPercent>
               <BlockOrientation Forward="Left" Up="Up" />
-              <ColorMaskHSV x="0.122222222" y="0.05" z="0.46" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorSlope2Base</SubtypeName>
               <Min x="-1" y="3" z="-5" />
               <BlockOrientation Forward="Backward" Up="Down" />
-              <ColorMaskHSV x="0" y="-0.8" z="7.450581E-09" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Cockpit">
               <SubtypeName>LargeBlockBathroom</SubtypeName>
-              <EntityId>117726991020737660</EntityId>
+              <EntityId>135852478331783390</EntityId>
               <Min x="-2" y="4" z="-6" />
-              <IntegrityPercent>0.13333334</IntegrityPercent>
-              <BuildPercent>0.13333334</BuildPercent>
               <BlockOrientation Forward="Left" Up="Up" />
-              <ColorMaskHSV x="0.122222222" y="0.05" z="0.46" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
               <CustomName>Bathroom 2</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
               <ShowInTerminal>true</ShowInTerminal>
@@ -1913,13 +1947,12 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CryoChamber">
               <SubtypeName>LargeBlockBed</SubtypeName>
-              <EntityId>129150879689216352</EntityId>
+              <EntityId>108533064410598235</EntityId>
               <Min x="1" y="4" z="-5" />
-              <IntegrityPercent>0.428564876</IntegrityPercent>
-              <BuildPercent>0.428564876</BuildPercent>
               <BlockOrientation Forward="Backward" Up="Up" />
-              <ColorMaskHSV x="0.122222222" y="0.05" z="0.46" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
               <ComponentContainer>
                 <Components>
                   <ComponentData>
@@ -1969,17 +2002,19 @@
               <SubtypeName>LargeBlockArmorSlope2Base</SubtypeName>
               <Min x="-2" y="2" z="-4" />
               <BlockOrientation Forward="Right" Up="Down" />
-              <ColorMaskHSV x="0" y="-0.799999952" z="0.55" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_InteriorLight">
               <SubtypeName>LargeBlockLight_1corner</SubtypeName>
-              <EntityId>132843499987060533</EntityId>
+              <EntityId>123060960362597025</EntityId>
               <Min x="0" y="3" z="-6" />
               <IntegrityPercent>0.6666667</IntegrityPercent>
               <BlockOrientation Forward="Forward" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="0" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
               <CustomName>Corner Light Cabin</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
               <ShowInTerminal>false</ShowInTerminal>
@@ -1998,52 +2033,48 @@
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorSlope2Base</SubtypeName>
               <Min x="0" y="3" z="-5" />
-              <IntegrityPercent>0.9499962</IntegrityPercent>
-              <BuildPercent>0.9499962</BuildPercent>
               <BlockOrientation Forward="Backward" Up="Down" />
-              <ColorMaskHSV x="0" y="-0.8" z="7.450581E-09" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-            </MyObjectBuilder_CubeBlock>
-            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_InteriorLight">
-              <SubtypeName>LargeBlockLight_1corner</SubtypeName>
-              <EntityId>129645153125182445</EntityId>
-              <Min x="-2" y="2" z="-5" />
-              <BlockOrientation Forward="Left" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="0" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <CustomName>Corner Light Entrance</CustomName>
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Door">
+              <SubtypeName>LargeBlockOffsetDoor</SubtypeName>
+              <EntityId>117260301175892832</EntityId>
+              <Min x="-2" y="2" z="-5" />
+              <BlockOrientation Forward="Right" Up="Up" />
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <Owner>144115188075855897</Owner>
+              <BuiltBy>144115188075855897</BuiltBy>
+              <ShareMode>Faction</ShareMode>
+              <CustomName>Offset Door</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
-              <ShowInTerminal>false</ShowInTerminal>
+              <ShowInTerminal>true</ShowInTerminal>
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
-              <Radius>5.0002346</Radius>
-              <ReflectorRadius>120</ReflectorRadius>
-              <Falloff>1</Falloff>
-              <Intensity>4</Intensity>
-              <BlinkIntervalSeconds>0</BlinkIntervalSeconds>
-              <BlinkLenght>10</BlinkLenght>
-              <BlinkOffset>0</BlinkOffset>
-              <Offset>0.5</Offset>
+              <AnyoneCanUse>false</AnyoneCanUse>
+              <Opening>0</Opening>
+              <OpenSound>ArcBlockDoorSmallOpen</OpenSound>
+              <CloseSound>ArcBlockDoorSmallClose</CloseSound>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>ArmorSide</SubtypeName>
-              <EntityId>140111540525943030</EntityId>
+              <EntityId>121905208564764574</EntityId>
               <Min x="0" y="2" z="-10" />
-              <IntegrityPercent>0.236102864</IntegrityPercent>
-              <BuildPercent>0.236102864</BuildPercent>
               <BlockOrientation Forward="Down" Up="Right" />
-              <ColorMaskHSV x="0" y="-1" z="-0.12" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_ReflectorLight">
               <SubtypeName>LargeBlockFrontLight</SubtypeName>
-              <EntityId>131325731093454295</EntityId>
+              <EntityId>120408206375309282</EntityId>
               <Min x="-2" y="2" z="-11" />
-              <IntegrityPercent>0.4</IntegrityPercent>
-              <BuildPercent>0.4</BuildPercent>
-              <ColorMaskHSV x="0" y="-1" z="-0.18" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
               <CustomName>Spotlight front</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
               <ShowInTerminal>false</ShowInTerminal>
@@ -2064,14 +2095,13 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_AirVent">
               <SubtypeName />
-              <EntityId>96162928388145569</EntityId>
+              <EntityId>125203302797251099</EntityId>
               <Min x="-1" y="3" z="1" />
-              <IntegrityPercent>0.299992383</IntegrityPercent>
-              <BuildPercent>0.299992383</BuildPercent>
               <BlockOrientation Forward="Backward" Up="Up" />
-              <ColorMaskHSV x="0" y="-0.8" z="7.450581E-09" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <Owner>144115188075855907</Owner>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <Owner>144115188075855897</Owner>
+              <BuiltBy>144115188075855897</BuiltBy>
               <ShareMode>Faction</ShareMode>
               <CustomName>Air Vent input</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
@@ -2083,71 +2113,69 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorSlope2Tip</SubtypeName>
-              <EntityId>95190633222495596</EntityId>
               <Min x="0" y="3" z="1" />
-              <IntegrityPercent>0.2</IntegrityPercent>
-              <BuildPercent>0.2</BuildPercent>
               <BlockOrientation Forward="Left" Up="Backward" />
-              <ColorMaskHSV x="0" y="-0.8" z="7.450581E-09" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeSteelCatwalk</SubtypeName>
-              <EntityId>132189725015150148</EntityId>
+              <EntityId>72195913184455122</EntityId>
               <Min x="0" y="5" z="-8" />
-              <IntegrityPercent>0.6</IntegrityPercent>
-              <BuildPercent>0.6</BuildPercent>
               <BlockOrientation Forward="Left" Up="Up" />
-              <ColorMaskHSV x="0.122222222" y="0.0500000119" z="0.459999949" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>Window1x2Flat</SubtypeName>
-              <EntityId>96642961139539157</EntityId>
+              <EntityId>99736495469938283</EntityId>
               <Min x="0" y="5" z="-10" />
-              <IntegrityPercent>0.7499962</IntegrityPercent>
-              <BuildPercent>0.7499962</BuildPercent>
               <BlockOrientation Forward="Forward" Up="Right" />
-              <ColorMaskHSV x="0" y="-0.85" z="0.29" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>Window1x2Flat</SubtypeName>
-              <EntityId>113514076836061657</EntityId>
+              <EntityId>74454703244139992</EntityId>
               <Min x="-1" y="5" z="-10" />
               <BlockOrientation Forward="Forward" Up="Right" />
-              <ColorMaskHSV x="0" y="-0.85" z="0.29" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>Window1x2Face</SubtypeName>
-              <EntityId>105142563945411826</EntityId>
+              <EntityId>76857679758827904</EntityId>
               <Min x="-3" y="4" z="-3" />
               <IntegrityPercent>0.166659042</IntegrityPercent>
               <BuildPercent>0.166659042</BuildPercent>
               <BlockOrientation Forward="Backward" Up="Up" />
-              <ColorMaskHSV x="0.122222222" y="0.0500000119" z="0.459999949" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>Window1x2Face</SubtypeName>
-              <EntityId>82207271777134666</EntityId>
+              <EntityId>141514297520495123</EntityId>
               <Min x="2" y="4" z="-3" />
               <IntegrityPercent>0.166659042</IntegrityPercent>
               <BuildPercent>0.166659042</BuildPercent>
               <BlockOrientation Forward="Backward" Up="Right" />
-              <ColorMaskHSV x="0.122222222" y="0.0500000119" z="0.459999949" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CargoContainer">
               <SubtypeName>LargeBlockLockerRoomCorner</SubtypeName>
-              <EntityId>91617764442027051</EntityId>
+              <EntityId>136581501281519311</EntityId>
               <Min x="-1" y="4" z="-4" />
-              <IntegrityPercent>0.285709918</IntegrityPercent>
-              <BuildPercent>0.285709918</BuildPercent>
               <BlockOrientation Forward="Right" Up="Up" />
-              <ColorMaskHSV x="0.122222222" y="0.05" z="0.46" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
               <ComponentContainer>
                 <Components>
                   <ComponentData>
@@ -2173,23 +2201,20 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorSlope2Tip</SubtypeName>
-              <EntityId>96194479157857670</EntityId>
               <Min x="1" y="5" z="-5" />
-              <IntegrityPercent>0.4</IntegrityPercent>
-              <BuildPercent>0.4</BuildPercent>
               <BlockOrientation Forward="Left" Up="Up" />
-              <ColorMaskHSV x="0.122222222" y="0.05" z="0.46" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_InteriorTurret">
               <SubtypeName>LargeInteriorTurret</SubtypeName>
-              <EntityId>132011645543131514</EntityId>
+              <EntityId>108439430384739888</EntityId>
               <Min x="-2" y="6" z="-7" />
-              <IntegrityPercent>0.249988556</IntegrityPercent>
-              <BuildPercent>0.249988556</BuildPercent>
-              <ColorMaskHSV x="0" y="-0.8" z="7.450581E-09" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <Owner>144115188075855908</Owner>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <Owner>144115188075855897</Owner>
+              <BuiltBy>144115188075855897</BuiltBy>
               <ShareMode>Faction</ShareMode>
               <ComponentContainer>
                 <Components>
@@ -2265,122 +2290,130 @@
               <SubtypeName>LargeBlockArmorSlope2Tip</SubtypeName>
               <Min x="-2" y="5" z="-4" />
               <BlockOrientation Forward="Right" Up="Up" />
-              <ColorMaskHSV x="0" y="-0.799999952" z="0.55" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorCorner2Tip</SubtypeName>
               <Min x="-2" y="4" z="-1" />
               <BlockOrientation Forward="Right" Up="Up" />
-              <ColorMaskHSV x="0.122222222" y="0.0500000119" z="0.459999949" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorCorner2Tip</SubtypeName>
               <Min x="1" y="4" z="-1" />
               <BlockOrientation Forward="Left" Up="Forward" />
-              <ColorMaskHSV x="0.122222222" y="0.0500000119" z="0.459999949" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeHalfArmorBlock</SubtypeName>
               <Min x="0" y="5" z="-6" />
               <BlockOrientation Forward="Down" Up="Forward" />
-              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeHalfArmorBlock</SubtypeName>
               <Min x="-1" y="5" z="-6" />
               <BlockOrientation Forward="Down" Up="Forward" />
-              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeHalfArmorBlock</SubtypeName>
               <Min x="-1" y="5" z="-4" />
               <BlockOrientation Forward="Down" Up="Forward" />
-              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeHalfArmorBlock</SubtypeName>
               <Min x="0" y="5" z="-4" />
               <BlockOrientation Forward="Down" Up="Forward" />
-              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
-              <SubtypeName>ArmorCenter</SubtypeName>
-              <EntityId>92701055200861223</EntityId>
-              <Min x="-1" y="1" z="-8" />
-              <BlockOrientation Forward="Right" Up="Up" />
+              <SubtypeName>LargeHeavyBlockArmorBlock</SubtypeName>
+              <Min x="-1" y="2" z="-8" />
               <ColorMaskHSV x="0" y="-0.8" z="0" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
-              <SubtypeName>ArmorCenter</SubtypeName>
-              <EntityId>104571917019107772</EntityId>
-              <Min x="0" y="1" z="-8" />
-              <BlockOrientation Forward="Right" Up="Up" />
+              <SubtypeName>LargeHeavyBlockArmorBlock</SubtypeName>
+              <Min x="0" y="2" z="-8" />
               <ColorMaskHSV x="0" y="-0.8" z="0" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
-              <SubtypeName>ArmorCenter</SubtypeName>
-              <EntityId>92876828679645487</EntityId>
-              <Min x="-1" y="1" z="-2" />
-              <BlockOrientation Forward="Right" Up="Up" />
+              <SubtypeName>LargeHeavyBlockArmorBlock</SubtypeName>
+              <Min x="-1" y="2" z="-2" />
               <ColorMaskHSV x="0" y="-0.8" z="0" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeHalfSlopeArmorBlock</SubtypeName>
               <Min x="-3" y="2" z="-6" />
               <BlockOrientation Forward="Up" Up="Left" />
-              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeHalfSlopeArmorBlock</SubtypeName>
               <Min x="2" y="2" z="-6" />
               <BlockOrientation Forward="Up" Up="Right" />
-              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeHalfArmorBlock</SubtypeName>
               <Min x="-3" y="3" z="-4" />
               <BlockOrientation Forward="Right" Up="Down" />
-              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeHalfArmorBlock</SubtypeName>
               <Min x="2" y="3" z="-4" />
               <BlockOrientation Forward="Left" Up="Up" />
-              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>WindowWallLeft</SubtypeName>
-              <EntityId>79866600135933587</EntityId>
+              <EntityId>80207400420769313</EntityId>
               <Min x="0" y="5" z="-5" />
-              <IntegrityPercent>0.571419835</IntegrityPercent>
-              <BuildPercent>0.571419835</BuildPercent>
               <BlockOrientation Forward="Down" Up="Backward" />
-              <ColorMaskHSV x="0.122222222" y="0.05" z="0.46" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CargoContainer">
               <SubtypeName>LargeBlockLockerRoomCorner</SubtypeName>
-              <EntityId>141278378348536800</EntityId>
+              <EntityId>74423728940503477</EntityId>
               <Min x="0" y="4" z="-4" />
               <IntegrityPercent>0.7857023</IntegrityPercent>
               <BuildPercent>0.7857023</BuildPercent>
               <BlockOrientation Forward="Backward" Up="Up" />
-              <ColorMaskHSV x="0.122222222" y="0.05" z="0.46" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
               <ComponentContainer>
                 <Components>
                   <ComponentData>
@@ -2421,13 +2454,12 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CargoContainer">
               <SubtypeName>LargeBlockLockers</SubtypeName>
-              <EntityId>99524878625064324</EntityId>
+              <EntityId>104478613724419175</EntityId>
               <Min x="0" y="3" z="-7" />
-              <IntegrityPercent>0.142854959</IntegrityPercent>
-              <BuildPercent>0.142854959</BuildPercent>
-              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <Owner>144115188075855908</Owner>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <Owner>144115188075855897</Owner>
+              <BuiltBy>144115188075855897</BuiltBy>
               <ShareMode>Faction</ShareMode>
               <ComponentContainer>
                 <Components>
@@ -2454,22 +2486,22 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Planter">
               <SubtypeName>LargeBlockPlanters</SubtypeName>
-              <EntityId>94302566375447477</EntityId>
+              <EntityId>124043960898061116</EntityId>
               <Min x="-1" y="4" z="-7" />
-              <IntegrityPercent>0.142854959</IntegrityPercent>
-              <BuildPercent>0.142854959</BuildPercent>
-              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Cockpit">
               <SubtypeName>LargeBlockDeskCorner</SubtypeName>
-              <EntityId>110723921342759890</EntityId>
+              <EntityId>85651210657925784</EntityId>
               <Min x="0" y="4" z="-5" />
-              <IntegrityPercent>0.7857023</IntegrityPercent>
-              <BuildPercent>0.7857023</BuildPercent>
+              <IntegrityPercent>0.9642737</IntegrityPercent>
+              <BuildPercent>0.9642737</BuildPercent>
               <BlockOrientation Forward="Backward" Up="Up" />
-              <ColorMaskHSV x="0.122222222" y="0.05" z="0.46" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
               <CustomName>Desk Corner</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
               <ShowInTerminal>true</ShowInTerminal>
@@ -2498,13 +2530,12 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Cockpit">
               <SubtypeName>LargeBlockCouch</SubtypeName>
-              <EntityId>109686842837646005</EntityId>
+              <EntityId>128686704904464426</EntityId>
               <Min x="-2" y="4" z="-5" />
-              <IntegrityPercent>0.464271</IntegrityPercent>
-              <BuildPercent>0.464271</BuildPercent>
               <BlockOrientation Forward="Right" Up="Up" />
-              <ColorMaskHSV x="0.122222222" y="0.05" z="0.46" />
-              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
               <CustomName>Couch</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
               <ShowInTerminal>true</ShowInTerminal>
@@ -2531,8 +2562,217 @@
               <OxygenLevel>0</OxygenLevel>
               <PilotJetpackEnabled xsi:nil="true" />
             </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_MotorSuspension">
+              <SubtypeName>OffroadSuspension3x3mirrored</SubtypeName>
+              <EntityId>112765456237503326</EntityId>
+              <Min x="-3" y="2" z="-2" />
+              <BlockOrientation Forward="Up" Up="Left" />
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
+              <CustomName>Offroad Wheel Suspension 3x3 Left 5</CustomName>
+              <ShowOnHUD>false</ShowOnHUD>
+              <ShowInTerminal>true</ShowInTerminal>
+              <ShowInToolbarConfig>true</ShowInToolbarConfig>
+              <ShowInInventory>true</ShowInInventory>
+              <Enabled>true</Enabled>
+              <TopBlockId>75112139084147595</TopBlockId>
+              <ShareInertiaTensor>false</ShareInertiaTensor>
+              <SafetyDetach>5</SafetyDetach>
+              <RotorEntityId xsi:nil="true" />
+              <WeldedEntityId xsi:nil="true" />
+              <SteerAngle>0.00718328357</SteerAngle>
+              <Damping>0.9</Damping>
+              <Strength>3.40282347E+38</Strength>
+              <Propulsion>true</Propulsion>
+              <Friction>2.8</Friction>
+              <Power>0</Power>
+              <Height>-0.458</Height>
+              <MaxSteerAngle>0.349066</MaxSteerAngle>
+              <InvertSteer>false</InvertSteer>
+              <InvertPropulsion>false</InvertPropulsion>
+              <SpeedLimit>180</SpeedLimit>
+              <PowerNew>0.6</PowerNew>
+              <StrengthNew>0.06</StrengthNew>
+              <FrictionNew>0.5</FrictionNew>
+              <AirShockEnabled>true</AirShockEnabled>
+              <BrakingEnabled>true</BrakingEnabled>
+              <SteeringOverride>0</SteeringOverride>
+              <PropulsionOverride>0</PropulsionOverride>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>LargeSteelCatwalkPlate</SubtypeName>
+              <EntityId>127093162985228568</EntityId>
+              <Min x="0" y="1" z="-6" />
+              <BlockOrientation Forward="Right" Up="Down" />
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>LargeSteelCatwalkPlate</SubtypeName>
+              <EntityId>99956642173931555</EntityId>
+              <Min x="-1" y="1" z="-6" />
+              <BlockOrientation Forward="Left" Up="Down" />
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>LargeSteelCatwalkPlate</SubtypeName>
+              <EntityId>89218465237504954</EntityId>
+              <Min x="0" y="1" z="-4" />
+              <BlockOrientation Forward="Right" Up="Down" />
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>LargeSteelCatwalkPlate</SubtypeName>
+              <EntityId>127086901843125625</EntityId>
+              <Min x="-1" y="1" z="-4" />
+              <BlockOrientation Forward="Left" Up="Down" />
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>LargeHeavyBlockArmorSlope2Tip</SubtypeName>
+              <Min x="-2" y="2" z="0" />
+              <BlockOrientation Forward="Up" Up="Forward" />
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>LargeHeavyBlockArmorSlope2Tip</SubtypeName>
+              <Min x="-2" y="2" z="1" />
+              <BlockOrientation Forward="Down" Up="Backward" />
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>LargeHeavyBlockArmorSlope2Tip</SubtypeName>
+              <Min x="0" y="2" z="1" />
+              <BlockOrientation Forward="Left" Up="Backward" />
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>LargeHeavyHalfArmorBlock</SubtypeName>
+              <Min x="-1" y="2" z="1" />
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>LargeHeavyBlockArmorSlope2Tip</SubtypeName>
+              <Min x="-3" y="2" z="-11" />
+              <BlockOrientation Forward="Down" Up="Forward" />
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>LargeHeavyBlockArmorSlope2Tip</SubtypeName>
+              <Min x="-3" y="2" z="-10" />
+              <BlockOrientation Forward="Up" Up="Backward" />
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>Window1x1Slope</SubtypeName>
+              <EntityId>88338141466599774</EntityId>
+              <Min x="0" y="3" z="-11" />
+              <BlockOrientation Forward="Down" Up="Forward" />
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>LargeHeavyBlockArmorBlock</SubtypeName>
+              <Min x="1" y="3" z="-7" />
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Reactor">
+              <SubtypeName>LargeBlockSmallGenerator</SubtypeName>
+              <EntityId>137988609505353184</EntityId>
+              <Min x="1" y="3" z="-3" />
+              <BlockOrientation Forward="Backward" Up="Right" />
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <Owner>144115188075855897</Owner>
+              <BuiltBy>144115188075855897</BuiltBy>
+              <ShareMode>Faction</ShareMode>
+              <ComponentContainer>
+                <Components>
+                  <ComponentData>
+                    <TypeId>MyInventoryBase</TypeId>
+                    <Component xsi:type="MyObjectBuilder_Inventory">
+                      <Items />
+                      <nextItemId>0</nextItemId>
+                      <Volume>1</Volume>
+                      <Mass>9223372036854.775807</Mass>
+                      <MaxItemCount>2147483647</MaxItemCount>
+                      <Size xsi:nil="true" />
+                      <InventoryFlags>CanReceive</InventoryFlags>
+                      <RemoveEntityOnEmpty>false</RemoveEntityOnEmpty>
+                    </Component>
+                  </ComponentData>
+                  <ComponentData>
+                    <TypeId>MyTimerComponent</TypeId>
+                    <Component xsi:type="MyObjectBuilder_TimerComponent">
+                      <Repeat>true</Repeat>
+                      <TimeToEvent>0</TimeToEvent>
+                      <SetTimeMinutes>0</SetTimeMinutes>
+                      <TimerEnabled>false</TimerEnabled>
+                      <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
+                      <TimerType>Frame100</TimerType>
+                      <FramesFromLastTrigger>0</FramesFromLastTrigger>
+                      <TimerTickInFrames>900</TimerTickInFrames>
+                      <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
+                    </Component>
+                  </ComponentData>
+                </Components>
+              </ComponentContainer>
+              <CustomName>Small Reactor</CustomName>
+              <ShowOnHUD>false</ShowOnHUD>
+              <ShowInTerminal>true</ShowInTerminal>
+              <ShowInToolbarConfig>true</ShowInToolbarConfig>
+              <ShowInInventory>true</ShowInInventory>
+              <Enabled>true</Enabled>
+              <Capacity>1</Capacity>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>LargeHeavyBlockArmorCornerInv</SubtypeName>
+              <Min x="-2" y="3" z="-3" />
+              <BlockOrientation Forward="Down" Up="Right" />
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>LargeHeavyBlockArmorCorner</SubtypeName>
+              <Min x="-2" y="2" z="-3" />
+              <BlockOrientation Forward="Up" Up="Backward" />
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>LargeHeavyBlockArmorSlope2Tip</SubtypeName>
+              <Min x="-2" y="1" z="-5" />
+              <BlockOrientation Forward="Right" Up="Down" />
+              <ColorMaskHSV x="0" y="-0.8" z="0" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
           </CubeBlocks>
-          <IsStatic>true</IsStatic>
           <XMirroxPlane x="0" y="3" z="-5" />
           <XMirroxOdd>true</XMirroxOdd>
           <ConveyorLines>
@@ -2581,6 +2821,22 @@
               <StartDirection>Right</StartDirection>
               <EndPosition x="0" y="3" z="-4" />
               <EndDirection>Left</EndDirection>
+              <Sections />
+              <ConveyorLineType>LARGE_LINE</ConveyorLineType>
+            </MyObjectBuilder_ConveyorLine>
+            <MyObjectBuilder_ConveyorLine>
+              <StartPosition x="1" y="3" z="-4" />
+              <StartDirection>Backward</StartDirection>
+              <EndPosition x="1" y="3" z="-3" />
+              <EndDirection>Forward</EndDirection>
+              <Sections />
+              <ConveyorLineType>LARGE_LINE</ConveyorLineType>
+            </MyObjectBuilder_ConveyorLine>
+            <MyObjectBuilder_ConveyorLine>
+              <StartPosition x="-1" y="3" z="-4" />
+              <StartDirection>Left</StartDirection>
+              <EndPosition x="-2" y="3" z="-4" />
+              <EndDirection>Right</EndDirection>
               <Sections />
               <ConveyorLineType>LARGE_LINE</ConveyorLineType>
             </MyObjectBuilder_ConveyorLine>
@@ -2640,18 +2896,178 @@
           <Handbrake>true</Handbrake>
           <DisplayName>Road encounter Rover Relic</DisplayName>
           <DestructibleBlocks>true</DestructibleBlocks>
+          <CreatePhysics>false</CreatePhysics>
+          <EnableSmallToLargeConnections>false</EnableSmallToLargeConnections>
           <IsRespawnGrid>false</IsRespawnGrid>
-          <LocalCoordSys>684</LocalCoordSys>
+          <LocalCoordSys>0</LocalCoordSys>
           <TargetingTargets />
           <OxygenRooms>
-            <OxygenRoom OxygenAmount="0">
+            <OxygenRoom OxygenAmount="1406.25">
               <StartingPosition>
                 <X>-4</X>
                 <Y>0</Y>
                 <Z>-13</Z>
               </StartingPosition>
             </OxygenRoom>
+            <OxygenRoom OxygenAmount="453.125">
+              <StartingPosition>
+                <X>0</X>
+                <Y>2</Y>
+                <Z>-5</Z>
+              </StartingPosition>
+            </OxygenRoom>
+            <OxygenRoom OxygenAmount="0">
+              <StartingPosition>
+                <X>-1</X>
+                <Y>2</Y>
+                <Z>-5</Z>
+              </StartingPosition>
+            </OxygenRoom>
           </OxygenRooms>
+        </CubeGrid>
+        <CubeGrid>
+          <SubtypeName />
+          <EntityId>93269333789532872</EntityId>
+          <PersistentFlags>CastShadows InScene</PersistentFlags>
+          <Name>93269333789532872</Name>
+          <PositionAndOrientation>
+            <Position x="16.71099853515625" y="13.4130859375" z="-11.61669921875" />
+            <Forward x="0.3577776" y="0.5663813" z="-0.7424334" />
+            <Up x="0.709636" y="0.351876825" z="0.6104093" />
+            <Orientation>
+              <X>0.3580011</X>
+              <Y>-0.02486884</Y>
+              <Z>-0.442602247</Z>
+              <W>0.821778536</W>
+            </Orientation>
+          </PositionAndOrientation>
+          <LocalPositionAndOrientation xsi:nil="true" />
+          <GridSizeEnum>Large</GridSizeEnum>
+          <CubeBlocks>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Wheel">
+              <SubtypeName>OffroadRealWheelmirrored</SubtypeName>
+              <EntityId>111546747062284943</EntityId>
+              <ColorMaskHSV x="0" y="-1" z="-0.12" />
+              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
+              <YieldLastComponent>false</YieldLastComponent>
+            </MyObjectBuilder_CubeBlock>
+          </CubeBlocks>
+          <DisplayName>Large Grid 6199</DisplayName>
+          <DestructibleBlocks>true</DestructibleBlocks>
+          <CreatePhysics>false</CreatePhysics>
+          <EnableSmallToLargeConnections>false</EnableSmallToLargeConnections>
+          <IsRespawnGrid>false</IsRespawnGrid>
+          <LocalCoordSys>0</LocalCoordSys>
+          <TargetingTargets />
+        </CubeGrid>
+        <CubeGrid>
+          <SubtypeName />
+          <EntityId>89681183431468109</EntityId>
+          <PersistentFlags>CastShadows InScene</PersistentFlags>
+          <Name>89681183431468109</Name>
+          <PositionAndOrientation>
+            <Position x="-0.81732177734375" y="-6.009765625" z="-6.82275390625" />
+            <Forward x="0.304590642" y="-0.9364874" z="0.173828244" />
+            <Up x="-0.704191744" y="-0.344295442" z="-0.6209468" />
+            <Orientation>
+              <X>-0.734758556</X>
+              <Y>0.216896236</Y>
+              <Z>0.3636998</Z>
+              <W>0.529913545</W>
+            </Orientation>
+          </PositionAndOrientation>
+          <LocalPositionAndOrientation xsi:nil="true" />
+          <GridSizeEnum>Large</GridSizeEnum>
+          <CubeBlocks>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Wheel">
+              <SubtypeName>OffroadRealWheel</SubtypeName>
+              <EntityId>95093097476937464</EntityId>
+              <ColorMaskHSV x="0" y="-1" z="-0.12" />
+              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
+              <YieldLastComponent>false</YieldLastComponent>
+            </MyObjectBuilder_CubeBlock>
+          </CubeBlocks>
+          <DisplayName>Large Grid 6348</DisplayName>
+          <DestructibleBlocks>true</DestructibleBlocks>
+          <CreatePhysics>false</CreatePhysics>
+          <EnableSmallToLargeConnections>false</EnableSmallToLargeConnections>
+          <IsRespawnGrid>false</IsRespawnGrid>
+          <LocalCoordSys>0</LocalCoordSys>
+          <TargetingTargets />
+        </CubeGrid>
+        <CubeGrid>
+          <SubtypeName />
+          <EntityId>142440502614517517</EntityId>
+          <PersistentFlags>CastShadows InScene</PersistentFlags>
+          <Name>142440502614517517</Name>
+          <PositionAndOrientation>
+            <Position x="3.8218994140625" y="7.86865234375" z="-19.96044921875" />
+            <Forward x="-0.704367042" y="0.336910576" z="0.6247868" />
+            <Up x="-0.709695041" y="-0.351787925" z="-0.610391855" />
+            <Orientation>
+              <X>0.7054643</X>
+              <Y>-0.5609933</Y>
+              <Z>0.422154069</Z>
+              <W>-0.09691536</W>
+            </Orientation>
+          </PositionAndOrientation>
+          <LocalPositionAndOrientation xsi:nil="true" />
+          <GridSizeEnum>Large</GridSizeEnum>
+          <CubeBlocks>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Wheel">
+              <SubtypeName>OffroadRealWheel</SubtypeName>
+              <EntityId>101741408369739264</EntityId>
+              <ColorMaskHSV x="0" y="-1" z="-0.12" />
+              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
+              <YieldLastComponent>false</YieldLastComponent>
+            </MyObjectBuilder_CubeBlock>
+          </CubeBlocks>
+          <DisplayName>Large Grid 5570</DisplayName>
+          <DestructibleBlocks>true</DestructibleBlocks>
+          <CreatePhysics>false</CreatePhysics>
+          <EnableSmallToLargeConnections>false</EnableSmallToLargeConnections>
+          <IsRespawnGrid>false</IsRespawnGrid>
+          <LocalCoordSys>0</LocalCoordSys>
+          <TargetingTargets />
+        </CubeGrid>
+        <CubeGrid>
+          <SubtypeName />
+          <EntityId>76692425783839705</EntityId>
+          <PersistentFlags>CastShadows InScene</PersistentFlags>
+          <Name>76692425783839705</Name>
+          <PositionAndOrientation>
+            <Position x="9.92901611328125" y="0.41845703125" z="3.5009765625" />
+            <Forward x="-0.6921803" y="0.137782618" z="0.7084507" />
+            <Up x="0.7041654" y="0.3441373" z="0.621064067" />
+            <Orientation>
+              <X>0.549108565</X>
+              <Y>0.7434414</Y>
+              <Z>0.16251497</Z>
+              <W>0.345490277</W>
+            </Orientation>
+          </PositionAndOrientation>
+          <LocalPositionAndOrientation xsi:nil="true" />
+          <GridSizeEnum>Large</GridSizeEnum>
+          <CubeBlocks>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Wheel">
+              <SubtypeName>OffroadRealWheelmirrored</SubtypeName>
+              <EntityId>75112139084147595</EntityId>
+              <ColorMaskHSV x="0" y="-1" z="-0.12" />
+              <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855897</BuiltBy>
+              <YieldLastComponent>false</YieldLastComponent>
+            </MyObjectBuilder_CubeBlock>
+          </CubeBlocks>
+          <DisplayName>Large Grid 9815</DisplayName>
+          <DestructibleBlocks>true</DestructibleBlocks>
+          <CreatePhysics>false</CreatePhysics>
+          <EnableSmallToLargeConnections>false</EnableSmallToLargeConnections>
+          <IsRespawnGrid>false</IsRespawnGrid>
+          <LocalCoordSys>0</LocalCoordSys>
+          <TargetingTargets />
         </CubeGrid>
       </CubeGrids>
       <EnvironmentType>None</EnvironmentType>

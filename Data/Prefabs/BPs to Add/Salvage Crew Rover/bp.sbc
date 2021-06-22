@@ -7,17 +7,18 @@
       <CubeGrids>
         <CubeGrid>
           <SubtypeName />
-          <EntityId>110480986123548992</EntityId>
+          <EntityId>95004558504207677</EntityId>
           <PersistentFlags>CastShadows InScene</PersistentFlags>
+          <Name>95004558504207677</Name>
           <PositionAndOrientation>
-            <Position x="-1414.3574755827785" y="20261.466329183564" z="-31915.298093318524" />
-            <Forward x="0.975992" y="0.08102426" z="-0.202175081" />
-            <Up x="-0.21746096" y="0.414767146" z="-0.8835604" />
+            <Position x="0" y="0" z="0" />
+            <Forward x="0.0454093777" y="0.257064" z="-0.965326965" />
+            <Up x="0.227364451" y="0.938302934" z="0.260562927" />
             <Orientation>
-              <X>-0.314373821</X>
-              <Y>-0.547797</Y>
-              <Z>0.440210819</Z>
-              <W>0.638202131</W>
+              <X>0.131453961</X>
+              <Y>-0.00750942761</Y>
+              <Z>-0.116483457</Z>
+              <W>0.98442626</W>
             </Orientation>
           </PositionAndOrientation>
           <LocalPositionAndOrientation xsi:nil="true" />
@@ -29,16 +30,14 @@
               <BlockOrientation Forward="Up" Up="Backward" />
               <ColorMaskHSV x="0" y="-0.8" z="0.4" />
               <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_InteriorLight">
               <SubtypeName>SmallBlockSmallLight</SubtypeName>
-              <EntityId>77500891359144225</EntityId>
+              <EntityId>80264193704971566</EntityId>
               <Min x="2" y="7" z="-1" />
               <BlockOrientation Forward="Forward" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
               <CustomName>Front Light - Right</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
               <ShowInTerminal>false</ShowInTerminal>
@@ -57,33 +56,31 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallArmorSide</SubtypeName>
-              <EntityId>121570951284549775</EntityId>
+              <EntityId>107938402888261567</EntityId>
               <Min x="0" y="3" z="0" />
               <BlockOrientation Forward="Backward" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="0" />
               <SkinSubtypeId>Rusty_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_MotorSuspension">
               <SubtypeName>SmallSuspension3x3</SubtypeName>
-              <EntityId>132327273751515868</EntityId>
+              <EntityId>103863898802367584</EntityId>
               <Min x="1" y="3" z="0" />
               <BlockOrientation Forward="Up" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Rusty_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
               <CustomName>Wheel - Right 1</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
               <ShowInTerminal>false</ShowInTerminal>
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
-              <TopBlockId>95325683627406925</TopBlockId>
+              <TopBlockId>103080608116104271</TopBlockId>
               <ShareInertiaTensor>false</ShareInertiaTensor>
               <SafetyDetach>5</SafetyDetach>
               <RotorEntityId xsi:nil="true" />
               <WeldedEntityId xsi:nil="true" />
-              <SteerAngle>0.0242454335</SteerAngle>
+              <SteerAngle>-0.00575386174</SteerAngle>
               <Damping>0.9</Damping>
               <Strength>3.40282347E+38</Strength>
               <Propulsion>true</Propulsion>
@@ -108,7 +105,6 @@
               <BlockOrientation Forward="Up" Up="Backward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorCorner2Base</SubtypeName>
@@ -116,7 +112,6 @@
               <BlockOrientation Forward="Up" Up="Backward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Rusty_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorCorner2Base</SubtypeName>
@@ -124,23 +119,21 @@
               <BlockOrientation Forward="Forward" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Rusty_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_MotorSuspension">
               <SubtypeName>SmallSuspension3x3mirrored</SubtypeName>
-              <EntityId>81834070303911550</EntityId>
+              <EntityId>129820330695790844</EntityId>
               <Min x="1" y="3" z="5" />
               <BlockOrientation Forward="Up" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Rusty_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
               <CustomName>Wheel - Right 2</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
               <ShowInTerminal>false</ShowInTerminal>
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
-              <TopBlockId>107598617359222255</TopBlockId>
+              <TopBlockId>106236154275716583</TopBlockId>
               <ShareInertiaTensor>false</ShareInertiaTensor>
               <SafetyDetach>5</SafetyDetach>
               <RotorEntityId xsi:nil="true" />
@@ -171,7 +164,6 @@
               <BlockOrientation Forward="Up" Up="Backward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Rusty_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>HalfArmorBlock</SubtypeName>
@@ -179,7 +171,6 @@
               <BlockOrientation Forward="Up" Up="Backward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>HalfArmorBlock</SubtypeName>
@@ -187,7 +178,6 @@
               <BlockOrientation Forward="Up" Up="Backward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>HalfArmorBlock</SubtypeName>
@@ -195,23 +185,21 @@
               <BlockOrientation Forward="Up" Up="Backward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_MotorSuspension">
               <SubtypeName>SmallSuspension3x3mirrored</SubtypeName>
-              <EntityId>105611883435773578</EntityId>
+              <EntityId>140993038777336614</EntityId>
               <Min x="-2" y="3" z="5" />
               <BlockOrientation Forward="Up" Up="Left" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Rusty_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
               <CustomName>Wheel - Left 2</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
               <ShowInTerminal>false</ShowInTerminal>
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
-              <TopBlockId>97052523153459219</TopBlockId>
+              <TopBlockId>75092426512064092</TopBlockId>
               <ShareInertiaTensor>false</ShareInertiaTensor>
               <SafetyDetach>5</SafetyDetach>
               <RotorEntityId xsi:nil="true" />
@@ -242,28 +230,26 @@
               <BlockOrientation Forward="Forward" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Rusty_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_MotorSuspension">
               <SubtypeName>SmallSuspension3x3</SubtypeName>
-              <EntityId>134384419763374102</EntityId>
+              <EntityId>109309844012670128</EntityId>
               <Min x="1" y="3" z="9" />
               <BlockOrientation Forward="Up" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Rusty_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
               <CustomName>Wheel - Right 3</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
               <ShowInTerminal>false</ShowInTerminal>
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
-              <TopBlockId>131870038450962160</TopBlockId>
+              <TopBlockId>135463231161454943</TopBlockId>
               <ShareInertiaTensor>false</ShareInertiaTensor>
               <SafetyDetach>5</SafetyDetach>
               <RotorEntityId xsi:nil="true" />
               <WeldedEntityId xsi:nil="true" />
-              <SteerAngle>0.0260084383</SteerAngle>
+              <SteerAngle>-0.003990857</SteerAngle>
               <Damping>0.9</Damping>
               <Strength>3.40282347E+38</Strength>
               <Propulsion>true</Propulsion>
@@ -284,24 +270,23 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_MotorSuspension">
               <SubtypeName>SmallSuspension3x3mirrored</SubtypeName>
-              <EntityId>78678214833880504</EntityId>
+              <EntityId>89920354435086691</EntityId>
               <Min x="-2" y="3" z="0" />
               <BlockOrientation Forward="Up" Up="Left" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Rusty_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
               <CustomName>Wheel - Left 1</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
               <ShowInTerminal>false</ShowInTerminal>
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
-              <TopBlockId>94490507248335543</TopBlockId>
+              <TopBlockId>117039314974183707</TopBlockId>
               <ShareInertiaTensor>false</ShareInertiaTensor>
               <SafetyDetach>5</SafetyDetach>
               <RotorEntityId xsi:nil="true" />
               <WeldedEntityId xsi:nil="true" />
-              <SteerAngle>0.0248957761</SteerAngle>
+              <SteerAngle>-0.005103519</SteerAngle>
               <Damping>0.9</Damping>
               <Strength>3.40282347E+38</Strength>
               <Propulsion>true</Propulsion>
@@ -322,24 +307,23 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_MotorSuspension">
               <SubtypeName>SmallSuspension3x3mirrored</SubtypeName>
-              <EntityId>102891115253866669</EntityId>
+              <EntityId>74910380513321042</EntityId>
               <Min x="-2" y="3" z="9" />
               <BlockOrientation Forward="Up" Up="Left" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Rusty_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
               <CustomName>Wheel - Left 3</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
               <ShowInTerminal>false</ShowInTerminal>
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
-              <TopBlockId>137791705391570416</TopBlockId>
+              <TopBlockId>78434104795330239</TopBlockId>
               <ShareInertiaTensor>false</ShareInertiaTensor>
               <SafetyDetach>5</SafetyDetach>
               <RotorEntityId xsi:nil="true" />
               <WeldedEntityId xsi:nil="true" />
-              <SteerAngle>0.026371073</SteerAngle>
+              <SteerAngle>-0.00362822227</SteerAngle>
               <Damping>0.9</Damping>
               <Strength>3.40282347E+38</Strength>
               <Propulsion>true</Propulsion>
@@ -364,16 +348,14 @@
               <BlockOrientation Forward="Left" Up="Forward" />
               <ColorMaskHSV x="0.122222222" y="-0.1" z="0.26" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Conveyor">
               <SubtypeName>SmallBlockConveyor</SubtypeName>
-              <EntityId>106663693939774515</EntityId>
+              <EntityId>103593348200902908</EntityId>
               <Min x="1" y="5" z="5" />
               <BlockOrientation Forward="Right" Up="Backward" />
               <ColorMaskHSV x="0" y="-0.8" z="0.4" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorInvCorner2Base</SubtypeName>
@@ -381,17 +363,15 @@
               <BlockOrientation Forward="Backward" Up="Left" />
               <ColorMaskHSV x="0" y="-0.8" z="0.4" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_SurvivalKit">
               <SubtypeName>SurvivalKit</SubtypeName>
-              <EntityId>108999256026386096</EntityId>
+              <EntityId>109911087112765660</EntityId>
               <Min x="-1" y="4" z="6" />
               <BlockOrientation Forward="Left" Up="Up" />
               <ColorMaskHSV x="0" y="-0.8" z="0.4" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <Owner>144115188075855911</Owner>
-              <BuiltBy>144115188075855911</BuiltBy>
+              <Owner>144115188075855897</Owner>
               <ShareMode>All</ShareMode>
               <ComponentContainer>
                 <Components>
@@ -454,13 +434,12 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_ShipConnector">
               <SubtypeName>ConnectorMedium</SubtypeName>
-              <EntityId>80287713336573871</EntityId>
+              <EntityId>93103100083725233</EntityId>
               <Min x="-1" y="4" z="10" />
               <BlockOrientation Forward="Backward" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="0.4" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <Owner>144115188075855911</Owner>
-              <BuiltBy>144115188075855908</BuiltBy>
+              <Owner>144115188075855897</Owner>
               <ShareMode>All</ShareMode>
               <DeformationRatio>0.5</DeformationRatio>
               <ComponentContainer>
@@ -604,7 +583,7 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
                       <TimerEnabled>true</TimerEnabled>
                       <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                       <TimerType>Frame10</TimerType>
-                      <FramesFromLastTrigger>70</FramesFromLastTrigger>
+                      <FramesFromLastTrigger>10</FramesFromLastTrigger>
                       <TimerTickInFrames>80</TimerTickInFrames>
                       <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                     </Component>
@@ -630,24 +609,21 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <Min x="-2" y="6" z="8" />
               <ColorMaskHSV x="0" y="-0.8" z="0.4" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorBlock</SubtypeName>
               <Min x="2" y="6" z="7" />
               <ColorMaskHSV x="0" y="-0.8" z="0.4" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_BatteryBlock">
               <SubtypeName>SmallBlockSmallBatteryBlock</SubtypeName>
-              <EntityId>105170113857429456</EntityId>
+              <EntityId>120794392373059631</EntityId>
               <Min x="-2" y="6" z="9" />
               <BlockOrientation Forward="Backward" Up="Up" />
               <ColorMaskHSV x="0" y="-0.8" z="0.4" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <Owner>144115188075855911</Owner>
-              <BuiltBy>144115188075855908</BuiltBy>
+              <Owner>144115188075855897</Owner>
               <ShareMode>All</ShareMode>
               <CustomName>Small Battery</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
@@ -655,7 +631,7 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
-              <CurrentStoredPower>0.04986131</CurrentStoredPower>
+              <CurrentStoredPower>0.05</CurrentStoredPower>
               <ProducerEnabled>true</ProducerEnabled>
               <MaxStoredPower>0</MaxStoredPower>
               <SemiautoEnabled>false</SemiautoEnabled>
@@ -668,7 +644,6 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Right" Up="Down" />
               <ColorMaskHSV x="0.122222222" y="-0.1" z="0.26" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorSlope2Tip</SubtypeName>
@@ -676,7 +651,6 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Right" Up="Down" />
               <ColorMaskHSV x="0.122222222" y="-0.1" z="0.26" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorSlope2Base</SubtypeName>
@@ -684,7 +658,6 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Left" Up="Down" />
               <ColorMaskHSV x="0.122222222" y="-0.1" z="0.26" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorSlope2Base</SubtypeName>
@@ -692,7 +665,6 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Left" Up="Down" />
               <ColorMaskHSV x="0.122222222" y="-0.1" z="0.26" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorSlope2Base</SubtypeName>
@@ -700,7 +672,6 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Right" Up="Down" />
               <ColorMaskHSV x="0.122222222" y="-0.1" z="0.26" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorSlope2Base</SubtypeName>
@@ -708,7 +679,6 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Left" Up="Down" />
               <ColorMaskHSV x="0.122222222" y="-0.1" z="0.26" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorSlope2Base</SubtypeName>
@@ -716,7 +686,6 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Right" Up="Down" />
               <ColorMaskHSV x="0.122222222" y="-0.1" z="0.26" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorSlope2Base</SubtypeName>
@@ -724,7 +693,6 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Right" Up="Down" />
               <ColorMaskHSV x="0.122222222" y="-0.1" z="0.26" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorSlope2Base</SubtypeName>
@@ -732,7 +700,6 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Right" Up="Down" />
               <ColorMaskHSV x="0.122222222" y="-0.1" z="0.26" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>HalfSlopeArmorBlock</SubtypeName>
@@ -740,7 +707,6 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Up" Up="Left" />
               <ColorMaskHSV x="0.122222222" y="-0.1" z="0.26" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorSlope2Base</SubtypeName>
@@ -748,17 +714,15 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Left" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_BatteryBlock">
               <SubtypeName>SmallBlockSmallBatteryBlock</SubtypeName>
-              <EntityId>77348424804702737</EntityId>
+              <EntityId>109404924324655226</EntityId>
               <Min x="2" y="6" z="5" />
               <BlockOrientation Forward="Forward" Up="Left" />
               <ColorMaskHSV x="0" y="-0.8" z="0.4" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <Owner>144115188075855911</Owner>
-              <BuiltBy>144115188075855908</BuiltBy>
+              <Owner>144115188075855897</Owner>
               <ShareMode>All</ShareMode>
               <CustomName>Small Battery</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
@@ -766,7 +730,7 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
-              <CurrentStoredPower>0.04986124</CurrentStoredPower>
+              <CurrentStoredPower>0.05</CurrentStoredPower>
               <ProducerEnabled>true</ProducerEnabled>
               <MaxStoredPower>0</MaxStoredPower>
               <SemiautoEnabled>false</SemiautoEnabled>
@@ -778,7 +742,6 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <Min x="-2" y="6" z="6" />
               <ColorMaskHSV x="0" y="-0.8" z="0.4" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorSlope2Base</SubtypeName>
@@ -786,7 +749,6 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Left" Up="Down" />
               <ColorMaskHSV x="0.122222222" y="-0.1" z="0.26" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorSlope2Base</SubtypeName>
@@ -794,7 +756,6 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Right" Up="Down" />
               <ColorMaskHSV x="0.122222222" y="-0.1" z="0.26" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorSlope2Base</SubtypeName>
@@ -802,38 +763,33 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Right" Up="Down" />
               <ColorMaskHSV x="0.122222222" y="-0.1" z="0.26" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorBlock</SubtypeName>
               <Min x="-2" y="6" z="10" />
               <ColorMaskHSV x="0" y="-0.8" z="0.4" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorBlock</SubtypeName>
               <Min x="2" y="6" z="10" />
               <ColorMaskHSV x="0" y="-0.8" z="0.4" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorBlock</SubtypeName>
               <Min x="2" y="6" z="8" />
               <ColorMaskHSV x="0" y="-0.8" z="0.4" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_BatteryBlock">
               <SubtypeName>SmallBlockSmallBatteryBlock</SubtypeName>
-              <EntityId>134681712744902566</EntityId>
+              <EntityId>90320378412352240</EntityId>
               <Min x="2" y="6" z="9" />
               <BlockOrientation Forward="Backward" Up="Up" />
               <ColorMaskHSV x="0" y="-0.8" z="0.4" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <Owner>144115188075855911</Owner>
-              <BuiltBy>144115188075855908</BuiltBy>
+              <Owner>144115188075855897</Owner>
               <ShareMode>All</ShareMode>
               <CustomName>Small Battery</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
@@ -841,7 +797,7 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
-              <CurrentStoredPower>0.0498611853</CurrentStoredPower>
+              <CurrentStoredPower>0.05</CurrentStoredPower>
               <ProducerEnabled>true</ProducerEnabled>
               <MaxStoredPower>0</MaxStoredPower>
               <SemiautoEnabled>false</SemiautoEnabled>
@@ -853,16 +809,14 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <Min x="2" y="6" z="6" />
               <ColorMaskHSV x="0" y="-0.8" z="0.4" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Beacon">
               <SubtypeName>SmallBlockBeacon</SubtypeName>
-              <EntityId>96247157270814362</EntityId>
+              <EntityId>95243734524364912</EntityId>
               <Min x="1" y="4" z="4" />
               <ColorMaskHSV x="0" y="-0.8" z="0.4" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <Owner>144115188075855911</Owner>
-              <BuiltBy>144115188075855908</BuiltBy>
+              <Owner>144115188075855897</Owner>
               <ShareMode>All</ShareMode>
               <CustomName>Beacon</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
@@ -878,7 +832,6 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <Min x="-2" y="6" z="7" />
               <ColorMaskHSV x="0" y="-0.8" z="0.4" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>HalfSlopeArmorBlock</SubtypeName>
@@ -886,7 +839,6 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Up" Up="Left" />
               <ColorMaskHSV x="0.122222222" y="-0.1" z="0.26" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorSlope2Tip</SubtypeName>
@@ -894,7 +846,6 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Left" Up="Down" />
               <ColorMaskHSV x="0.333333343" y="-0.48" z="-0.25" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorInvCorner2Tip</SubtypeName>
@@ -902,7 +853,6 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Left" Up="Backward" />
               <ColorMaskHSV x="0.122222222" y="-0.1" z="0.26" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorInvCorner2Base</SubtypeName>
@@ -910,24 +860,21 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Left" Up="Forward" />
               <ColorMaskHSV x="0.122222222" y="-0.1" z="0.26" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorBlock</SubtypeName>
               <Min x="2" y="6" z="3" />
               <ColorMaskHSV x="0" y="-0.8" z="0.4" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_BatteryBlock">
               <SubtypeName>SmallBlockSmallBatteryBlock</SubtypeName>
-              <EntityId>137127226636404983</EntityId>
+              <EntityId>98323583452863334</EntityId>
               <Min x="2" y="6" z="4" />
               <BlockOrientation Forward="Forward" Up="Left" />
               <ColorMaskHSV x="0" y="-0.8" z="0.4" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <Owner>144115188075855911</Owner>
-              <BuiltBy>144115188075855908</BuiltBy>
+              <Owner>144115188075855897</Owner>
               <ShareMode>All</ShareMode>
               <CustomName>Small Battery</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
@@ -935,7 +882,7 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
-              <CurrentStoredPower>0.0498629659</CurrentStoredPower>
+              <CurrentStoredPower>0.05</CurrentStoredPower>
               <ProducerEnabled>true</ProducerEnabled>
               <MaxStoredPower>0</MaxStoredPower>
               <SemiautoEnabled>false</SemiautoEnabled>
@@ -948,16 +895,14 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Right" Up="Up" />
               <ColorMaskHSV x="0.122222222" y="-0.1" z="0.26" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Gyro">
               <SubtypeName>SmallBlockGyro</SubtypeName>
-              <EntityId>90911824628551321</EntityId>
+              <EntityId>98677251006973715</EntityId>
               <Min x="1" y="6" z="5" />
               <ColorMaskHSV x="0" y="-0.8" z="0.4" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <Owner>144115188075855911</Owner>
-              <BuiltBy>144115188075855908</BuiltBy>
+              <Owner>144115188075855897</Owner>
               <ShareMode>All</ShareMode>
               <CustomName>Gyroscope</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
@@ -972,17 +917,15 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Right" Up="Down" />
               <ColorMaskHSV x="0.122222222" y="-0.1" z="0.26" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_SolarPanel">
               <SubtypeName>SmallBlockSolarPanel</SubtypeName>
-              <EntityId>135177629825467692</EntityId>
+              <EntityId>96953309772296414</EntityId>
               <Min x="-2" y="7" z="1" />
               <BlockOrientation Forward="Down" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="0.4" />
               <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <Owner>144115188075855911</Owner>
-              <BuiltBy>144115188075855908</BuiltBy>
+              <Owner>144115188075855897</Owner>
               <ShareMode>All</ShareMode>
               <CustomName>Solar Panel</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
@@ -993,13 +936,12 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_BatteryBlock">
               <SubtypeName>SmallBlockSmallBatteryBlock</SubtypeName>
-              <EntityId>137046281971548865</EntityId>
+              <EntityId>128257747168853536</EntityId>
               <Min x="-2" y="6" z="4" />
               <BlockOrientation Forward="Backward" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="0.4" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <Owner>144115188075855911</Owner>
-              <BuiltBy>144115188075855908</BuiltBy>
+              <Owner>144115188075855897</Owner>
               <ShareMode>All</ShareMode>
               <CustomName>Small Battery</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
@@ -1007,7 +949,7 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
-              <CurrentStoredPower>0.0498629</CurrentStoredPower>
+              <CurrentStoredPower>0.05</CurrentStoredPower>
               <ProducerEnabled>true</ProducerEnabled>
               <MaxStoredPower>0</MaxStoredPower>
               <SemiautoEnabled>false</SemiautoEnabled>
@@ -1020,7 +962,6 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Down" Up="Forward" />
               <ColorMaskHSV x="0" y="-0.8" z="0.4" />
               <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>HalfArmorBlock</SubtypeName>
@@ -1028,7 +969,6 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Down" Up="Forward" />
               <ColorMaskHSV x="0" y="-0.8" z="0.4" />
               <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorCorner2Base</SubtypeName>
@@ -1036,7 +976,6 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Up" Up="Backward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorCorner2Tip</SubtypeName>
@@ -1044,18 +983,16 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Right" Up="Up" />
               <ColorMaskHSV x="0.122222222" y="-0.1" z="0.26" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Wheel">
               <SubtypeName>SmallWheel1x1</SubtypeName>
-              <EntityId>89687272773940548</EntityId>
+              <EntityId>108733929695794269</EntityId>
               <Min x="0" y="4" z="-1" />
               <IntegrityPercent>0.6</IntegrityPercent>
               <BuildPercent>0.6</BuildPercent>
               <BlockOrientation Forward="Forward" Up="Left" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Rusty_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
               <YieldLastComponent>true</YieldLastComponent>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
@@ -1064,7 +1001,6 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Backward" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Rusty_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>HalfSlopeArmorBlock</SubtypeName>
@@ -1072,16 +1008,14 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Backward" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Rusty_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Cockpit">
               <SubtypeName>OpenCockpitSmall</SubtypeName>
-              <EntityId>135171340633430215</EntityId>
+              <EntityId>131557881073076452</EntityId>
               <Min x="-1" y="4" z="0" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <Owner>144115188075855911</Owner>
-              <BuiltBy>144115188075855908</BuiltBy>
+              <Owner>144115188075855897</Owner>
               <ShareMode>All</ShareMode>
               <ComponentContainer>
                 <Components>
@@ -1115,7 +1049,7 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
                     <Item />
                     <Data xsi:type="MyObjectBuilder_ToolbarItemTerminalBlock">
                       <Action>OnOff</Action>
-                      <BlockEntityId>117029392385237084</BlockEntityId>
+                      <BlockEntityId>122387296353084841</BlockEntityId>
                     </Data>
                   </Slot>
                 </Slots>
@@ -1125,7 +1059,7 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
                     <Item />
                     <Data xsi:type="MyObjectBuilder_ToolbarItemTerminalBlock">
                       <Action>OnOff</Action>
-                      <BlockEntityId>117029392385237084</BlockEntityId>
+                      <BlockEntityId>122387296353084841</BlockEntityId>
                     </Data>
                   </Slot>
                 </SlotsGamepad>
@@ -1215,16 +1149,14 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Down" Up="Backward" />
               <ColorMaskHSV x="0.122222222" y="-0.1" z="0.26" />
               <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallWindow1x1Flat</SubtypeName>
-              <EntityId>85530432836165287</EntityId>
+              <EntityId>142577661877187074</EntityId>
               <Min x="0" y="7" z="0" />
               <BlockOrientation Forward="Forward" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorSlope2Base</SubtypeName>
@@ -1232,7 +1164,6 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Left" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorSlope2Tip</SubtypeName>
@@ -1240,32 +1171,28 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Down" Up="Forward" />
               <ColorMaskHSV x="0" y="-0.8" z="0.4" />
               <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallWindow1x1Flat</SubtypeName>
-              <EntityId>129143595073518631</EntityId>
+              <EntityId>77555180555441407</EntityId>
               <Min x="1" y="7" z="0" />
               <BlockOrientation Forward="Forward" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallWindow1x1Flat</SubtypeName>
-              <EntityId>123182666358446407</EntityId>
+              <EntityId>79719742639646510</EntityId>
               <Min x="-1" y="7" z="0" />
               <BlockOrientation Forward="Forward" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorBlock</SubtypeName>
               <Min x="-1" y="4" z="-1" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Rusty_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorSlope2Base</SubtypeName>
@@ -1273,14 +1200,12 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Right" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorBlock</SubtypeName>
               <Min x="1" y="4" z="-1" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Rusty_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorSlope2Tip</SubtypeName>
@@ -1288,7 +1213,6 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Down" Up="Forward" />
               <ColorMaskHSV x="0" y="-0.8" z="0.4" />
               <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorSlope2Tip</SubtypeName>
@@ -1296,7 +1220,6 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Up" Up="Backward" />
               <ColorMaskHSV x="0" y="-0.8" z="0.4" />
               <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallHeavyBlockArmorSlope2Tip</SubtypeName>
@@ -1304,24 +1227,21 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Down" Up="Backward" />
               <ColorMaskHSV x="0.122222222" y="-0.1" z="0.26" />
               <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorBlock</SubtypeName>
               <Min x="-2" y="6" z="3" />
               <ColorMaskHSV x="0" y="-0.8" z="0.4" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_OxygenGenerator">
               <SubtypeName>OxygenGeneratorSmall</SubtypeName>
-              <EntityId>109253505430918370</EntityId>
+              <EntityId>108591630997115434</EntityId>
               <Min x="-1" y="4" z="3" />
               <BlockOrientation Forward="Left" Up="Up" />
               <ColorMaskHSV x="0" y="-0.8" z="0.4" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <Owner>144115188075855911</Owner>
-              <BuiltBy>144115188075855908</BuiltBy>
+              <Owner>144115188075855897</Owner>
               <ShareMode>All</ShareMode>
               <ComponentContainer>
                 <Components>
@@ -1388,20 +1308,18 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Conveyor">
               <SubtypeName>SmallBlockConveyor</SubtypeName>
-              <EntityId>143979891149953237</EntityId>
+              <EntityId>144037343871146017</EntityId>
               <Min x="1" y="5" z="3" />
               <ColorMaskHSV x="0" y="-0.8" z="0.4" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_InteriorLight">
               <SubtypeName>SmallBlockSmallLight</SubtypeName>
-              <EntityId>86556690146102696</EntityId>
+              <EntityId>132637268570560910</EntityId>
               <Min x="-2" y="7" z="-1" />
               <BlockOrientation Forward="Forward" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
               <CustomName>Front Light - Left</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
               <ShowInTerminal>false</ShowInTerminal>
@@ -1424,7 +1342,6 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Right" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorSlope2Base</SubtypeName>
@@ -1432,16 +1349,14 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Left" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_InteriorLight">
               <SubtypeName>SmallBlockSmallLight</SubtypeName>
-              <EntityId>125293738426293270</EntityId>
+              <EntityId>91678582808351569</EntityId>
               <Min x="2" y="6" z="11" />
               <BlockOrientation Forward="Backward" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="0.4" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
               <CustomName>Rear Light - Right</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
               <ShowInTerminal>false</ShowInTerminal>
@@ -1462,12 +1377,11 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_InteriorLight">
               <SubtypeName>SmallBlockSmallLight</SubtypeName>
-              <EntityId>88718697305679785</EntityId>
+              <EntityId>136975375331646038</EntityId>
               <Min x="-2" y="6" z="11" />
               <BlockOrientation Forward="Backward" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="0.4" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
               <CustomName>Rear Light - Left</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
               <ShowInTerminal>false</ShowInTerminal>
@@ -1492,7 +1406,6 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Forward" Up="Left" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Rusty_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorCorner2Tip</SubtypeName>
@@ -1500,16 +1413,14 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Forward" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Rusty_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallArmorSide</SubtypeName>
-              <EntityId>114576827833966648</EntityId>
+              <EntityId>98683043035344659</EntityId>
               <Min x="0" y="3" z="9" />
               <BlockOrientation Forward="Backward" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="0" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorSlope2Base</SubtypeName>
@@ -1517,7 +1428,6 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Right" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>HalfArmorBlock</SubtypeName>
@@ -1525,7 +1435,6 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Up" Up="Backward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorCorner2Base</SubtypeName>
@@ -1533,7 +1442,6 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Backward" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Rusty_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>HalfArmorBlock</SubtypeName>
@@ -1541,7 +1449,6 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Up" Up="Backward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorCorner2Base</SubtypeName>
@@ -1549,7 +1456,6 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Up" Up="Forward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Rusty_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorCorner2Base</SubtypeName>
@@ -1557,16 +1463,14 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Backward" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Rusty_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallArmorSide</SubtypeName>
-              <EntityId>121266831487262170</EntityId>
+              <EntityId>133275207433405479</EntityId>
               <Min x="0" y="3" z="5" />
               <BlockOrientation Forward="Backward" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="0" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorCorner2Base</SubtypeName>
@@ -1574,7 +1478,6 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Up" Up="Forward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Rusty_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>HalfArmorBlock</SubtypeName>
@@ -1582,7 +1485,6 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Up" Up="Backward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorCorner2Base</SubtypeName>
@@ -1590,7 +1492,6 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Forward" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorSlope2Base</SubtypeName>
@@ -1598,7 +1499,6 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Left" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorSlope2Base</SubtypeName>
@@ -1606,15 +1506,13 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Right" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_ReflectorLight">
               <SubtypeName>SmallBlockFrontLight</SubtypeName>
-              <EntityId>108862279581573344</EntityId>
+              <EntityId>98815300136667387</EntityId>
               <Min x="-3" y="7" z="0" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
               <CustomName>Spotlight - Left</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
               <ShowInTerminal>false</ShowInTerminal>
@@ -1634,11 +1532,10 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_ReflectorLight">
               <SubtypeName>SmallBlockFrontLight</SubtypeName>
-              <EntityId>124582010933003291</EntityId>
+              <EntityId>142481429109213779</EntityId>
               <Min x="3" y="7" z="0" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
               <CustomName>Spotlight - Right</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
               <ShowInTerminal>false</ShowInTerminal>
@@ -1662,7 +1559,6 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Backward" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Rusty_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorSlope2Tip</SubtypeName>
@@ -1670,7 +1566,6 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Up" Up="Forward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Rusty_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>HalfSlopeArmorBlock</SubtypeName>
@@ -1678,17 +1573,15 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Backward" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Rusty_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_BatteryBlock">
               <SubtypeName>SmallBlockSmallBatteryBlock</SubtypeName>
-              <EntityId>110516290173080658</EntityId>
+              <EntityId>102855734878464882</EntityId>
               <Min x="-2" y="6" z="5" />
               <BlockOrientation Forward="Backward" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="0.4" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <Owner>144115188075855911</Owner>
-              <BuiltBy>144115188075855908</BuiltBy>
+              <Owner>144115188075855897</Owner>
               <ShareMode>All</ShareMode>
               <CustomName>Small Battery</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
@@ -1696,7 +1589,7 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
-              <CurrentStoredPower>0.0498626567</CurrentStoredPower>
+              <CurrentStoredPower>0.05</CurrentStoredPower>
               <ProducerEnabled>true</ProducerEnabled>
               <MaxStoredPower>0</MaxStoredPower>
               <SemiautoEnabled>false</SemiautoEnabled>
@@ -1709,7 +1602,6 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Up" Up="Forward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Rusty_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>HalfSlopeArmorBlock</SubtypeName>
@@ -1717,35 +1609,31 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Backward" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Rusty_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallWindow1x2Slope</SubtypeName>
-              <EntityId>106766200249825348</EntityId>
+              <EntityId>122142852301609013</EntityId>
               <Min x="-1" y="5" z="-1" />
               <BlockOrientation Forward="Up" Up="Forward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallWindow1x2Slope</SubtypeName>
-              <EntityId>96998138673657721</EntityId>
+              <EntityId>87809873400736640</EntityId>
               <Min x="0" y="5" z="-1" />
               <BlockOrientation Forward="Up" Up="Forward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_OreDetector">
               <SubtypeName>SmallBlockOreDetector</SubtypeName>
-              <EntityId>117029392385237084</EntityId>
+              <EntityId>122387296353084841</EntityId>
               <Min x="1" y="6" z="3" />
               <BlockOrientation Forward="Backward" Up="Left" />
               <ColorMaskHSV x="0" y="-0.8" z="0.4" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <Owner>144115188075855911</Owner>
-              <BuiltBy>144115188075855908</BuiltBy>
+              <Owner>144115188075855897</Owner>
               <ShareMode>All</ShareMode>
               <CustomName>Ore Detector</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
@@ -1758,13 +1646,12 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CargoContainer">
               <SubtypeName>SmallBlockSmallContainer</SubtypeName>
-              <EntityId>78193960907428957</EntityId>
+              <EntityId>97535969956793744</EntityId>
               <Min x="1" y="5" z="4" />
               <BlockOrientation Forward="Backward" Up="Left" />
               <ColorMaskHSV x="0" y="-0.8" z="0.4" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <Owner>144115188075855911</Owner>
-              <BuiltBy>144115188075855908</BuiltBy>
+              <Owner>144115188075855897</Owner>
               <ShareMode>All</ShareMode>
               <ComponentContainer>
                 <Components>
@@ -1791,12 +1678,11 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallWindow1x2Slope</SubtypeName>
-              <EntityId>100403186172124707</EntityId>
+              <EntityId>86947125419672393</EntityId>
               <Min x="1" y="5" z="-1" />
               <BlockOrientation Forward="Up" Up="Forward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorSlope2Tip</SubtypeName>
@@ -1804,7 +1690,6 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Right" Up="Forward" />
               <ColorMaskHSV x="0" y="-0.8" z="0.4" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorSlope2Tip</SubtypeName>
@@ -1812,16 +1697,14 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Left" Up="Forward" />
               <ColorMaskHSV x="0" y="-0.8" z="0.4" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Cockpit">
               <SubtypeName>PassengerSeatSmall</SubtypeName>
-              <EntityId>101439675534401688</EntityId>
+              <EntityId>82882031079017370</EntityId>
               <Min x="3" y="5" z="4" />
               <BlockOrientation Forward="Right" Up="Up" />
               <ColorMaskHSV x="0.122222222" y="-0.1" z="0.26" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
               <ComponentContainer>
                 <Components>
                   <ComponentData>
@@ -1867,12 +1750,11 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Cockpit">
               <SubtypeName>PassengerSeatSmall</SubtypeName>
-              <EntityId>84348030397070153</EntityId>
+              <EntityId>93910797529926488</EntityId>
               <Min x="-5" y="5" z="4" />
               <BlockOrientation Forward="Left" Up="Up" />
               <ColorMaskHSV x="0.122222222" y="-0.1" z="0.26" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
               <ComponentContainer>
                 <Components>
                   <ComponentData>
@@ -1918,25 +1800,19 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallArmorSide</SubtypeName>
-              <EntityId>74107260453466812</EntityId>
+              <EntityId>92257073003464371</EntityId>
               <Min x="3" y="6" z="3" />
-              <IntegrityPercent>0.111100942</IntegrityPercent>
-              <BuildPercent>0.111100942</BuildPercent>
               <BlockOrientation Forward="Up" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="0.4" />
               <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallArmorSide</SubtypeName>
-              <EntityId>120195539927869602</EntityId>
+              <EntityId>136943137122768382</EntityId>
               <Min x="-3" y="6" z="3" />
-              <IntegrityPercent>0.1</IntegrityPercent>
-              <BuildPercent>0.1</BuildPercent>
               <BlockOrientation Forward="Down" Up="Left" />
               <ColorMaskHSV x="0" y="-0.8" z="0.4" />
               <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorSlope2Base</SubtypeName>
@@ -1944,7 +1820,6 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Down" Up="Forward" />
               <ColorMaskHSV x="0.122222222" y="-0.1" z="0.26" />
               <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallBlockArmorSlope2Base</SubtypeName>
@@ -1952,16 +1827,14 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <BlockOrientation Forward="Down" Up="Forward" />
               <ColorMaskHSV x="0.122222222" y="-0.1" z="0.26" />
               <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Cockpit">
               <SubtypeName>PassengerSeatSmall</SubtypeName>
-              <EntityId>116360488425047058</EntityId>
+              <EntityId>89951305354461559</EntityId>
               <Min x="-5" y="5" z="8" />
               <BlockOrientation Forward="Left" Up="Up" />
               <ColorMaskHSV x="0.122222222" y="-0.1" z="0.26" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
               <ComponentContainer>
                 <Components>
                   <ComponentData>
@@ -2007,12 +1880,11 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Cockpit">
               <SubtypeName>PassengerSeatSmall</SubtypeName>
-              <EntityId>83844885961419627</EntityId>
+              <EntityId>114255940421793255</EntityId>
               <Min x="3" y="5" z="8" />
               <BlockOrientation Forward="Right" Up="Up" />
               <ColorMaskHSV x="0.122222222" y="-0.1" z="0.26" />
               <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
               <ComponentContainer>
                 <Components>
                   <ComponentData>
@@ -2057,6 +1929,8 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
               <PilotJetpackEnabled xsi:nil="true" />
             </MyObjectBuilder_CubeBlock>
           </CubeBlocks>
+          <LinearVelocity x="0.00204582349" y="0.06160845" z="0.00162061735" />
+          <AngularVelocity x="-0.00117543677" y="-0.0004654641" z="0.00221542013" />
           <XMirroxPlane x="0" y="7" z="10" />
           <ConveyorLines>
             <MyObjectBuilder_ConveyorLine>
@@ -2111,23 +1985,26 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
           <Handbrake>true</Handbrake>
           <DisplayName>Salvage Crew Rover</DisplayName>
           <DestructibleBlocks>true</DestructibleBlocks>
+          <CreatePhysics>false</CreatePhysics>
+          <EnableSmallToLargeConnections>false</EnableSmallToLargeConnections>
           <IsRespawnGrid>false</IsRespawnGrid>
           <LocalCoordSys>0</LocalCoordSys>
           <TargetingTargets />
         </CubeGrid>
         <CubeGrid>
           <SubtypeName />
-          <EntityId>78318324776789042</EntityId>
+          <EntityId>89935109464548661</EntityId>
           <PersistentFlags>CastShadows InScene</PersistentFlags>
+          <Name>89935109464548661</Name>
           <PositionAndOrientation>
-            <Position x="-1414.9625170866848" y="20263.499288167939" z="-31916.390866756024" />
-            <Forward x="0.270070851" y="0.4059549" z="-0.873076439" />
-            <Up x="0.0065209493" y="0.905979633" z="0.42327106" />
+            <Position x="1.7757148742675781" y="1.45806884765625" z="0.6677703857421875" />
+            <Forward x="0.208966136" y="0.9468638" z="-0.244504184" />
+            <Up x="0.9735699" y="-0.22499314" z="-0.0392413139" />
             <Orientation>
-              <X>0.214337558</X>
-              <Y>-0.13236773</Y>
-              <Z>-0.03270469</Z>
-              <W>0.9671963</W>
+              <X>-0.4712539</X>
+              <Y>-0.394547433</Y>
+              <Z>0.624833</Z>
+              <W>-0.4814933</W>
             </Orientation>
           </PositionAndOrientation>
           <LocalPositionAndOrientation xsi:nil="true" />
@@ -2135,32 +2012,36 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
           <CubeBlocks>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Wheel">
               <SubtypeName>SmallRealWheel</SubtypeName>
-              <EntityId>95325683627406925</EntityId>
+              <EntityId>103080608116104271</EntityId>
               <ColorMaskHSV x="0" y="-0.8" z="0.4" />
               <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
               <YieldLastComponent>false</YieldLastComponent>
             </MyObjectBuilder_CubeBlock>
           </CubeBlocks>
+          <LinearVelocity x="-0.00629073754" y="0.00317756017" z="-0.00606130436" />
+          <AngularVelocity x="-0.009729216" y="-0.0004080655" z="0.009883733" />
           <DisplayName>Small Grid 6600</DisplayName>
           <DestructibleBlocks>true</DestructibleBlocks>
+          <CreatePhysics>false</CreatePhysics>
+          <EnableSmallToLargeConnections>false</EnableSmallToLargeConnections>
           <IsRespawnGrid>false</IsRespawnGrid>
           <LocalCoordSys>0</LocalCoordSys>
           <TargetingTargets />
         </CubeGrid>
         <CubeGrid>
           <SubtypeName />
-          <EntityId>114695994348659672</EntityId>
+          <EntityId>96092726803958020</EntityId>
           <PersistentFlags>CastShadows InScene</PersistentFlags>
+          <Name>96092726803958020</Name>
           <PositionAndOrientation>
-            <Position x="-1416.6770556609035" y="20263.283467855439" z="-31915.874265193524" />
-            <Forward x="0.9758742" y="0.08124772" z="-0.202652931" />
-            <Up x="0.0124533176" y="0.9059573" z="0.423185855" />
+            <Position x="1.6482048034667969" y="0.825286865234375" z="2.3690719604492188" />
+            <Forward x="0.04534339" y="0.256789684" z="-0.965403" />
+            <Up x="0.9727569" y="-0.231285661" z="-0.0158314258" />
             <Orientation>
-              <X>0.165353835</X>
-              <Y>-0.6093699</Y>
-              <Z>-0.1402835</Z>
-              <W>0.7626579</W>
+              <X>0.09814963</X>
+              <Y>0.08755072</Y>
+              <Z>-0.7784661</Z>
+              <W>0.6137524</W>
             </Orientation>
           </PositionAndOrientation>
           <LocalPositionAndOrientation xsi:nil="true" />
@@ -2168,32 +2049,36 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
           <CubeBlocks>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Wheel">
               <SubtypeName>SmallRealWheelmirrored</SubtypeName>
-              <EntityId>107598617359222255</EntityId>
+              <EntityId>106236154275716583</EntityId>
               <ColorMaskHSV x="0" y="-0.8" z="0.4" />
               <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
               <YieldLastComponent>false</YieldLastComponent>
             </MyObjectBuilder_CubeBlock>
           </CubeBlocks>
+          <LinearVelocity x="-0.00650757551" y="0.003675684" z="-0.007642121" />
+          <AngularVelocity x="-0.0121756615" y="-0.000109203858" z="0.0103151109" />
           <DisplayName>Small Grid 492</DisplayName>
           <DestructibleBlocks>true</DestructibleBlocks>
+          <CreatePhysics>false</CreatePhysics>
+          <EnableSmallToLargeConnections>false</EnableSmallToLargeConnections>
           <IsRespawnGrid>false</IsRespawnGrid>
           <LocalCoordSys>0</LocalCoordSys>
           <TargetingTargets />
         </CubeGrid>
         <CubeGrid>
           <SubtypeName />
-          <EntityId>105765544579468687</EntityId>
+          <EntityId>90067483334524261</EntityId>
           <PersistentFlags>CastShadows InScene</PersistentFlags>
+          <Name>90067483334524261</Name>
           <PositionAndOrientation>
-            <Position x="-1417.6863330046535" y="20260.709004964814" z="-31916.832273006024" />
-            <Forward x="-0.976048946" y="-0.080915466" z="0.201943249" />
-            <Up x="-0.0123246312" y="-0.906200469" z="-0.422668576" />
+            <Position x="-1.0730056762695313" y="1.2002182006835938" z="3.3768234252929688" />
+            <Forward x="-0.0454793051" y="-0.257186085" z="0.965290964" />
+            <Up x="-0.9727641" y="0.231259346" z="0.0157838836" />
             <Orientation>
-              <X>0.762454152</X>
-              <Y>-0.14012605</Y>
-              <Z>0.609724462</Z>
-              <W>-0.165119469</W>
+              <X>-0.613746643</X>
+              <Y>0.7784347</Y>
+              <Z>0.08766632</Z>
+              <W>0.0983313844</W>
             </Orientation>
           </PositionAndOrientation>
           <LocalPositionAndOrientation xsi:nil="true" />
@@ -2201,32 +2086,36 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
           <CubeBlocks>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Wheel">
               <SubtypeName>SmallRealWheelmirrored</SubtypeName>
-              <EntityId>97052523153459219</EntityId>
+              <EntityId>75092426512064092</EntityId>
               <ColorMaskHSV x="0" y="-0.8" z="0.4" />
               <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
               <YieldLastComponent>false</YieldLastComponent>
             </MyObjectBuilder_CubeBlock>
           </CubeBlocks>
+          <LinearVelocity x="-0.006424782" y="0.00334156817" z="-0.00665162" />
+          <AngularVelocity x="-0.01058978" y="-0.0002617794" z="0.0100969514" />
           <DisplayName>Small Grid 4748</DisplayName>
           <DestructibleBlocks>true</DestructibleBlocks>
+          <CreatePhysics>false</CreatePhysics>
+          <EnableSmallToLargeConnections>false</EnableSmallToLargeConnections>
           <IsRespawnGrid>false</IsRespawnGrid>
           <LocalCoordSys>0</LocalCoordSys>
           <TargetingTargets />
         </CubeGrid>
         <CubeGrid>
           <SubtypeName />
-          <EntityId>143344780443295892</EntityId>
+          <EntityId>109247963280787526</EntityId>
           <PersistentFlags>CastShadows InScene</PersistentFlags>
+          <Name>109247963280787526</Name>
           <PositionAndOrientation>
-            <Position x="-1418.6296313444973" y="20263.124044027314" z="-31915.470456599774" />
-            <Forward x="0.975854039" y="0.0849893838" z="-0.2012111" />
-            <Up x="0.00894404948" y="0.90487355" z="0.425586462" />
+            <Position x="1.5478706359863281" y="0.32671356201171875" z="4.3011245727539063" />
+            <Forward x="0.0203708261" y="0.263978481" z="-0.964313447" />
+            <Up x="0.9731895" y="-0.226252347" z="-0.0413777" />
             <Orientation>
-              <X>0.1674487</X>
-              <Y>-0.609389365</Y>
-              <Z>-0.139728844</Z>
-              <W>0.762286961</W>
+              <X>0.09060617</X>
+              <Y>0.0981519446</Y>
+              <Z>-0.7777639</Z>
+              <W>0.6141987</W>
             </Orientation>
           </PositionAndOrientation>
           <LocalPositionAndOrientation xsi:nil="true" />
@@ -2234,32 +2123,36 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
           <CubeBlocks>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Wheel">
               <SubtypeName>SmallRealWheel</SubtypeName>
-              <EntityId>131870038450962160</EntityId>
+              <EntityId>135463231161454943</EntityId>
               <ColorMaskHSV x="0" y="-0.8" z="0.4" />
               <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
               <YieldLastComponent>false</YieldLastComponent>
             </MyObjectBuilder_CubeBlock>
           </CubeBlocks>
+          <LinearVelocity x="-0.00653029373" y="0.00351131149" z="-0.007511086" />
+          <AngularVelocity x="-0.0118997488" y="-3.45972367E-05" z="0.0103297383" />
           <DisplayName>Small Grid 8349</DisplayName>
           <DestructibleBlocks>true</DestructibleBlocks>
+          <CreatePhysics>false</CreatePhysics>
+          <EnableSmallToLargeConnections>false</EnableSmallToLargeConnections>
           <IsRespawnGrid>false</IsRespawnGrid>
           <LocalCoordSys>0</LocalCoordSys>
           <TargetingTargets />
         </CubeGrid>
         <CubeGrid>
           <SubtypeName />
-          <EntityId>120388052772815743</EntityId>
+          <EntityId>79227563730074304</EntityId>
           <PersistentFlags>CastShadows InScene</PersistentFlags>
+          <Name>79227563730074304</Name>
           <PositionAndOrientation>
-            <Position x="-1415.2193530241848" y="20260.925069417939" z="-31917.371823787274" />
-            <Forward x="-0.9882028" y="-0.0583481938" z="0.14160113" />
-            <Up x="-0.00703118742" y="-0.9063224" z="-0.422528744" />
+            <Position x="-0.92406463623046875" y="1.9572982788085938" z="0.8707427978515625" />
+            <Forward x="0.029627867" y="-0.0488571562" z="0.9983663" />
+            <Up x="-0.9735522" y="0.224953532" z="0.0399000533" />
             <Orientation>
-              <X>0.7417738</X>
-              <Y>-0.143430129</Y>
-              <Z>0.634769857</Z>
-              <W>-0.162069917</W>
+              <X>-0.6218676</X>
+              <Y>0.782600641</Y>
+              <Z>0.0283532869</Z>
+              <W>0.00360088865</W>
             </Orientation>
           </PositionAndOrientation>
           <LocalPositionAndOrientation xsi:nil="true" />
@@ -2267,32 +2160,36 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
           <CubeBlocks>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Wheel">
               <SubtypeName>SmallRealWheelmirrored</SubtypeName>
-              <EntityId>94490507248335543</EntityId>
+              <EntityId>117039314974183707</EntityId>
               <ColorMaskHSV x="0" y="-0.8" z="0.4" />
               <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
               <YieldLastComponent>false</YieldLastComponent>
             </MyObjectBuilder_CubeBlock>
           </CubeBlocks>
+          <LinearVelocity x="-0.00585253537" y="0.00498480164" z="-0.0129780136" />
+          <AngularVelocity x="-0.02009749" y="0.00210611452" z="0.009872274" />
           <DisplayName>Small Grid 5915</DisplayName>
           <DestructibleBlocks>true</DestructibleBlocks>
+          <CreatePhysics>false</CreatePhysics>
+          <EnableSmallToLargeConnections>false</EnableSmallToLargeConnections>
           <IsRespawnGrid>false</IsRespawnGrid>
           <LocalCoordSys>0</LocalCoordSys>
           <TargetingTargets />
         </CubeGrid>
         <CubeGrid>
           <SubtypeName />
-          <EntityId>113835833400895277</EntityId>
+          <EntityId>92553500940952834</EntityId>
           <PersistentFlags>CastShadows InScene</PersistentFlags>
+          <Name>92553500940952834</Name>
           <PositionAndOrientation>
-            <Position x="-1419.6384204069973" y="20260.546163167939" z="-31916.430417537274" />
-            <Forward x="-0.9762456" y="-0.08389555" z="0.19976528" />
-            <Up x="-0.00823842" y="-0.9069518" z="-0.421154022" />
+            <Position x="-1.1498680114746094" y="0.6878814697265625" z="5.3111038208007813" />
+            <Forward x="-0.0196373388" y="-0.26263535" z="0.964695334" />
+            <Up x="-0.97390157" y="0.223245561" z="0.04095319" />
             <Orientation>
-              <X>0.762106836</X>
-              <Y>-0.138115123</Y>
-              <Z>0.610466242</Z>
-              <W>-0.165675446</W>
+              <X>-0.6154937</X>
+              <Y>0.7768624</Y>
+              <Z>0.09769701</Z>
+              <W>0.09004242</W>
             </Orientation>
           </PositionAndOrientation>
           <LocalPositionAndOrientation xsi:nil="true" />
@@ -2300,15 +2197,18 @@ GPS:Drone Terminal:-1341.57551426451:20252.9420231913:-31951.9625974094:</Data>
           <CubeBlocks>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Wheel">
               <SubtypeName>SmallRealWheelmirrored</SubtypeName>
-              <EntityId>137791705391570416</EntityId>
+              <EntityId>78434104795330239</EntityId>
               <ColorMaskHSV x="0" y="-0.8" z="0.4" />
               <SkinSubtypeId>Frozen_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855908</BuiltBy>
               <YieldLastComponent>false</YieldLastComponent>
             </MyObjectBuilder_CubeBlock>
           </CubeBlocks>
+          <LinearVelocity x="-0.00625141058" y="0.00365911867" z="-0.007755246" />
+          <AngularVelocity x="-0.0123173548" y="8.0652535E-05" z="0.009966809" />
           <DisplayName>Small Grid 3225</DisplayName>
           <DestructibleBlocks>true</DestructibleBlocks>
+          <CreatePhysics>false</CreatePhysics>
+          <EnableSmallToLargeConnections>false</EnableSmallToLargeConnections>
           <IsRespawnGrid>false</IsRespawnGrid>
           <LocalCoordSys>0</LocalCoordSys>
           <TargetingTargets />

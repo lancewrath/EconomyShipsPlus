@@ -3270,7 +3270,6 @@
           <TargetingTargets />
         </CubeGrid>
       </CubeGrids>
-      <EnvironmentType>None</EnvironmentType>
     </Prefab>
   </Prefabs>
 </Definitions>

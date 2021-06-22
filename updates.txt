@@ -17,3 +17,20 @@ Scrap Hatchback
 Scrap Hotrod
 Scrap Truck
 Scrap Blank
+--
+Chieftain
+Federal Corvette
+Oncorhynchus
+Dakota
+AGI Rescue Rover
+AREV A-1
+AREV D-1
+ATV4 SV1
+Blue Bus
+Cardinal
+Cool Box
+LFL-1
+Mars Rover
+Thicc Boi
+Personal Shuttle
+
